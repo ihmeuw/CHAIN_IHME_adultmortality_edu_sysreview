@@ -1,0 +1,1076 @@
+location_name,location_id,ihme_loc_id,level,region_name,super_region_name
+Global,1,G,0,"",""
+"Central Europe, Eastern Europe, and Central Asia",31,S2,1,"","Central Europe, Eastern Europe, and Central Asia"
+Central Asia,32,R2,2,Central Asia,"Central Europe, Eastern Europe, and Central Asia"
+Armenia,33,ARM,3,Central Asia,"Central Europe, Eastern Europe, and Central Asia"
+Azerbaijan,34,AZE,3,Central Asia,"Central Europe, Eastern Europe, and Central Asia"
+Georgia,35,GEO,3,Central Asia,"Central Europe, Eastern Europe, and Central Asia"
+Kazakhstan,36,KAZ,3,Central Asia,"Central Europe, Eastern Europe, and Central Asia"
+Kyrgyzstan,37,KGZ,3,Central Asia,"Central Europe, Eastern Europe, and Central Asia"
+Mongolia,38,MNG,3,Central Asia,"Central Europe, Eastern Europe, and Central Asia"
+Tajikistan,39,TJK,3,Central Asia,"Central Europe, Eastern Europe, and Central Asia"
+Turkmenistan,40,TKM,3,Central Asia,"Central Europe, Eastern Europe, and Central Asia"
+Uzbekistan,41,UZB,3,Central Asia,"Central Europe, Eastern Europe, and Central Asia"
+Central Europe,42,R8,2,Central Europe,"Central Europe, Eastern Europe, and Central Asia"
+Albania,43,ALB,3,Central Europe,"Central Europe, Eastern Europe, and Central Asia"
+Bosnia and Herzegovina,44,BIH,3,Central Europe,"Central Europe, Eastern Europe, and Central Asia"
+Bulgaria,45,BGR,3,Central Europe,"Central Europe, Eastern Europe, and Central Asia"
+Croatia,46,HRV,3,Central Europe,"Central Europe, Eastern Europe, and Central Asia"
+Czechia,47,CZE,3,Central Europe,"Central Europe, Eastern Europe, and Central Asia"
+Hungary,48,HUN,3,Central Europe,"Central Europe, Eastern Europe, and Central Asia"
+Montenegro,50,MNE,3,Central Europe,"Central Europe, Eastern Europe, and Central Asia"
+North Macedonia,49,MKD,3,Central Europe,"Central Europe, Eastern Europe, and Central Asia"
+Poland,51,POL,3,Central Europe,"Central Europe, Eastern Europe, and Central Asia"
+Dolnośląskie,53660,POL_53660,4,Central Europe,"Central Europe, Eastern Europe, and Central Asia"
+Kujawsko-Pomorskie,53661,POL_53661,4,Central Europe,"Central Europe, Eastern Europe, and Central Asia"
+Łódzkie,53662,POL_53662,4,Central Europe,"Central Europe, Eastern Europe, and Central Asia"
+Lubelskie,53663,POL_53663,4,Central Europe,"Central Europe, Eastern Europe, and Central Asia"
+Lubuskie,53664,POL_53664,4,Central Europe,"Central Europe, Eastern Europe, and Central Asia"
+Małopolskie,53665,POL_53665,4,Central Europe,"Central Europe, Eastern Europe, and Central Asia"
+Mazowieckie,53666,POL_53666,4,Central Europe,"Central Europe, Eastern Europe, and Central Asia"
+Opolskie,53667,POL_53667,4,Central Europe,"Central Europe, Eastern Europe, and Central Asia"
+Podkarpackie,53668,POL_53668,4,Central Europe,"Central Europe, Eastern Europe, and Central Asia"
+Podlaskie,53669,POL_53669,4,Central Europe,"Central Europe, Eastern Europe, and Central Asia"
+Pomorskie,53670,POL_53670,4,Central Europe,"Central Europe, Eastern Europe, and Central Asia"
+Śląskie,53671,POL_53671,4,Central Europe,"Central Europe, Eastern Europe, and Central Asia"
+Świętokrzyskie,53672,POL_53672,4,Central Europe,"Central Europe, Eastern Europe, and Central Asia"
+Warmińsko-Mazurskie,53673,POL_53673,4,Central Europe,"Central Europe, Eastern Europe, and Central Asia"
+Wielkopolskie,53674,POL_53674,4,Central Europe,"Central Europe, Eastern Europe, and Central Asia"
+Zachodniopomorskie,53675,POL_53675,4,Central Europe,"Central Europe, Eastern Europe, and Central Asia"
+Romania,52,ROU,3,Central Europe,"Central Europe, Eastern Europe, and Central Asia"
+Serbia,53,SRB,3,Central Europe,"Central Europe, Eastern Europe, and Central Asia"
+Slovakia,54,SVK,3,Central Europe,"Central Europe, Eastern Europe, and Central Asia"
+Slovenia,55,SVN,3,Central Europe,"Central Europe, Eastern Europe, and Central Asia"
+Eastern Europe,56,R9,2,Eastern Europe,"Central Europe, Eastern Europe, and Central Asia"
+Belarus,57,BLR,3,Eastern Europe,"Central Europe, Eastern Europe, and Central Asia"
+Estonia,58,EST,3,Eastern Europe,"Central Europe, Eastern Europe, and Central Asia"
+Latvia,59,LVA,3,Eastern Europe,"Central Europe, Eastern Europe, and Central Asia"
+Lithuania,60,LTU,3,Eastern Europe,"Central Europe, Eastern Europe, and Central Asia"
+Republic of Moldova,61,MDA,3,Eastern Europe,"Central Europe, Eastern Europe, and Central Asia"
+Russian Federation,62,RUS,3,Eastern Europe,"Central Europe, Eastern Europe, and Central Asia"
+Altai kray,44971,RUS_44971,4,Eastern Europe,"Central Europe, Eastern Europe, and Central Asia"
+Amur oblast,44983,RUS_44983,4,Eastern Europe,"Central Europe, Eastern Europe, and Central Asia"
+Arkhangelsk oblast without Nenets autonomous district,44924,RUS_44924,4,Eastern Europe,"Central Europe, Eastern Europe, and Central Asia"
+Astrakhan oblast,44936,RUS_44936,4,Eastern Europe,"Central Europe, Eastern Europe, and Central Asia"
+Belgorod oblast,44903,RUS_44903,4,Eastern Europe,"Central Europe, Eastern Europe, and Central Asia"
+Bryansk oblast,44904,RUS_44904,4,Eastern Europe,"Central Europe, Eastern Europe, and Central Asia"
+Chechen Republic,44945,RUS_44945,4,Eastern Europe,"Central Europe, Eastern Europe, and Central Asia"
+Chelyabinsk oblast,44966,RUS_44966,4,Eastern Europe,"Central Europe, Eastern Europe, and Central Asia"
+Chukotka Autonomous Area,44987,RUS_44987,4,Eastern Europe,"Central Europe, Eastern Europe, and Central Asia"
+Chuvash Republic,44952,RUS_44952,4,Eastern Europe,"Central Europe, Eastern Europe, and Central Asia"
+Irkutsk oblast,44974,RUS_44974,4,Eastern Europe,"Central Europe, Eastern Europe, and Central Asia"
+Ivanovo oblast,44907,RUS_44907,4,Eastern Europe,"Central Europe, Eastern Europe, and Central Asia"
+Jewish autonomous oblast,44986,RUS_44986,4,Eastern Europe,"Central Europe, Eastern Europe, and Central Asia"
+Kabardino-Balkar Republic,44942,RUS_44942,4,Eastern Europe,"Central Europe, Eastern Europe, and Central Asia"
+Kaliningrad oblast,44926,RUS_44926,4,Eastern Europe,"Central Europe, Eastern Europe, and Central Asia"
+Kaluga oblast,44908,RUS_44908,4,Eastern Europe,"Central Europe, Eastern Europe, and Central Asia"
+Kamchatka kray,44980,RUS_44980,4,Eastern Europe,"Central Europe, Eastern Europe, and Central Asia"
+Karachay-Cherkess Republic,44943,RUS_44943,4,Eastern Europe,"Central Europe, Eastern Europe, and Central Asia"
+Kemerovo oblast,44975,RUS_44975,4,Eastern Europe,"Central Europe, Eastern Europe, and Central Asia"
+Khabarovsk kray,44982,RUS_44982,4,Eastern Europe,"Central Europe, Eastern Europe, and Central Asia"
+Khanty-Mansi autonomous area,44963,RUS_44963,4,Eastern Europe,"Central Europe, Eastern Europe, and Central Asia"
+Kirov oblast,44954,RUS_44954,4,Eastern Europe,"Central Europe, Eastern Europe, and Central Asia"
+Komi Republic,44922,RUS_44922,4,Eastern Europe,"Central Europe, Eastern Europe, and Central Asia"
+Kostroma oblast,44909,RUS_44909,4,Eastern Europe,"Central Europe, Eastern Europe, and Central Asia"
+Krasnodar kray,44935,RUS_44935,4,Eastern Europe,"Central Europe, Eastern Europe, and Central Asia"
+Krasnoyarsk kray,44973,RUS_44973,4,Eastern Europe,"Central Europe, Eastern Europe, and Central Asia"
+Kurgan oblast,44961,RUS_44961,4,Eastern Europe,"Central Europe, Eastern Europe, and Central Asia"
+Kursk oblast,44910,RUS_44910,4,Eastern Europe,"Central Europe, Eastern Europe, and Central Asia"
+Leningrad oblast,44927,RUS_44927,4,Eastern Europe,"Central Europe, Eastern Europe, and Central Asia"
+Lipetzk oblast,44911,RUS_44911,4,Eastern Europe,"Central Europe, Eastern Europe, and Central Asia"
+Magadan oblast,44984,RUS_44984,4,Eastern Europe,"Central Europe, Eastern Europe, and Central Asia"
+Moscow City,44920,RUS_44920,4,Eastern Europe,"Central Europe, Eastern Europe, and Central Asia"
+Moscow oblast,44912,RUS_44912,4,Eastern Europe,"Central Europe, Eastern Europe, and Central Asia"
+Murmansk oblast,44928,RUS_44928,4,Eastern Europe,"Central Europe, Eastern Europe, and Central Asia"
+Nenets autonomous district,44923,RUS_44923,4,Eastern Europe,"Central Europe, Eastern Europe, and Central Asia"
+Nizhny Novgorod oblast,44955,RUS_44955,4,Eastern Europe,"Central Europe, Eastern Europe, and Central Asia"
+Novgorod oblast,44929,RUS_44929,4,Eastern Europe,"Central Europe, Eastern Europe, and Central Asia"
+Novosibirsk oblast,44976,RUS_44976,4,Eastern Europe,"Central Europe, Eastern Europe, and Central Asia"
+Omsk oblast,44977,RUS_44977,4,Eastern Europe,"Central Europe, Eastern Europe, and Central Asia"
+Orenburg oblast,44956,RUS_44956,4,Eastern Europe,"Central Europe, Eastern Europe, and Central Asia"
+Oryol oblast,44913,RUS_44913,4,Eastern Europe,"Central Europe, Eastern Europe, and Central Asia"
+Penza oblast,44957,RUS_44957,4,Eastern Europe,"Central Europe, Eastern Europe, and Central Asia"
+Perm kray,44953,RUS_44953,4,Eastern Europe,"Central Europe, Eastern Europe, and Central Asia"
+Primorsky kray,44981,RUS_44981,4,Eastern Europe,"Central Europe, Eastern Europe, and Central Asia"
+Pskov oblast,44930,RUS_44930,4,Eastern Europe,"Central Europe, Eastern Europe, and Central Asia"
+Republic of Adygeya,44932,RUS_44932,4,Eastern Europe,"Central Europe, Eastern Europe, and Central Asia"
+Republic of Altai,44967,RUS_44967,4,Eastern Europe,"Central Europe, Eastern Europe, and Central Asia"
+Republic of Bashkortostan,44947,RUS_44947,4,Eastern Europe,"Central Europe, Eastern Europe, and Central Asia"
+Republic of Buryatia,44968,RUS_44968,4,Eastern Europe,"Central Europe, Eastern Europe, and Central Asia"
+Republic of Dagestan,44940,RUS_44940,4,Eastern Europe,"Central Europe, Eastern Europe, and Central Asia"
+Republic of Ingushetia,44941,RUS_44941,4,Eastern Europe,"Central Europe, Eastern Europe, and Central Asia"
+Republic of Kalmykia,44933,RUS_44933,4,Eastern Europe,"Central Europe, Eastern Europe, and Central Asia"
+Republic of Karelia,44921,RUS_44921,4,Eastern Europe,"Central Europe, Eastern Europe, and Central Asia"
+Republic of Khakassia,44970,RUS_44970,4,Eastern Europe,"Central Europe, Eastern Europe, and Central Asia"
+Republic of Mari El,44948,RUS_44948,4,Eastern Europe,"Central Europe, Eastern Europe, and Central Asia"
+Republic of Mordovia,44949,RUS_44949,4,Eastern Europe,"Central Europe, Eastern Europe, and Central Asia"
+Republic of North Ossetia-Alania,44944,RUS_44944,4,Eastern Europe,"Central Europe, Eastern Europe, and Central Asia"
+Republic of Sakha (Yakutia),44979,RUS_44979,4,Eastern Europe,"Central Europe, Eastern Europe, and Central Asia"
+Republic of Tatarstan,44950,RUS_44950,4,Eastern Europe,"Central Europe, Eastern Europe, and Central Asia"
+Republic of Tuva,44969,RUS_44969,4,Eastern Europe,"Central Europe, Eastern Europe, and Central Asia"
+Rostov oblast,44938,RUS_44938,4,Eastern Europe,"Central Europe, Eastern Europe, and Central Asia"
+Ryazan oblast,44914,RUS_44914,4,Eastern Europe,"Central Europe, Eastern Europe, and Central Asia"
+Saint Petersburg,44931,RUS_44931,4,Eastern Europe,"Central Europe, Eastern Europe, and Central Asia"
+Sakhalin oblast,44985,RUS_44985,4,Eastern Europe,"Central Europe, Eastern Europe, and Central Asia"
+Samara oblast,44958,RUS_44958,4,Eastern Europe,"Central Europe, Eastern Europe, and Central Asia"
+Saratov oblast,44959,RUS_44959,4,Eastern Europe,"Central Europe, Eastern Europe, and Central Asia"
+Smolensk oblast,44915,RUS_44915,4,Eastern Europe,"Central Europe, Eastern Europe, and Central Asia"
+Stavropol kray,44946,RUS_44946,4,Eastern Europe,"Central Europe, Eastern Europe, and Central Asia"
+Sverdlovsk oblast,44962,RUS_44962,4,Eastern Europe,"Central Europe, Eastern Europe, and Central Asia"
+Tambov oblast,44916,RUS_44916,4,Eastern Europe,"Central Europe, Eastern Europe, and Central Asia"
+Tomsk oblast,44978,RUS_44978,4,Eastern Europe,"Central Europe, Eastern Europe, and Central Asia"
+Tula oblast,44918,RUS_44918,4,Eastern Europe,"Central Europe, Eastern Europe, and Central Asia"
+Tver oblast,44917,RUS_44917,4,Eastern Europe,"Central Europe, Eastern Europe, and Central Asia"
+Tyumen oblast without autonomous areas,44965,RUS_44965,4,Eastern Europe,"Central Europe, Eastern Europe, and Central Asia"
+Udmurt Republic,44951,RUS_44951,4,Eastern Europe,"Central Europe, Eastern Europe, and Central Asia"
+Ulyanovsk oblast,44960,RUS_44960,4,Eastern Europe,"Central Europe, Eastern Europe, and Central Asia"
+Vladimir oblast,44905,RUS_44905,4,Eastern Europe,"Central Europe, Eastern Europe, and Central Asia"
+Volgograd oblast,44937,RUS_44937,4,Eastern Europe,"Central Europe, Eastern Europe, and Central Asia"
+Vologda oblast,44925,RUS_44925,4,Eastern Europe,"Central Europe, Eastern Europe, and Central Asia"
+Voronezh oblast,44906,RUS_44906,4,Eastern Europe,"Central Europe, Eastern Europe, and Central Asia"
+Yamalo-Nenets autonomous area,44964,RUS_44964,4,Eastern Europe,"Central Europe, Eastern Europe, and Central Asia"
+Yaroslavl oblast,44919,RUS_44919,4,Eastern Europe,"Central Europe, Eastern Europe, and Central Asia"
+Zabaikalsk kray,44972,RUS_44972,4,Eastern Europe,"Central Europe, Eastern Europe, and Central Asia"
+Ukraine,63,UKR,3,Eastern Europe,"Central Europe, Eastern Europe, and Central Asia"
+Republic of Crimea,44934,UKR_44934,4,Eastern Europe,"Central Europe, Eastern Europe, and Central Asia"
+Sevastopol,44939,UKR_44939,4,Eastern Europe,"Central Europe, Eastern Europe, and Central Asia"
+Ukraine (without Crimea & Sevastopol),50559,UKR_50559,4,Eastern Europe,"Central Europe, Eastern Europe, and Central Asia"
+High-income,64,S1,1,"",High-income
+Australasia,70,R6,2,Australasia,High-income
+Australia,71,AUS,3,Australasia,High-income
+New Zealand,72,NZL,3,Australasia,High-income
+New Zealand Maori population,44850,NZL_44850,4,Australasia,High-income
+New Zealand non-Maori population,44851,NZL_44851,4,Australasia,High-income
+High-income Asia Pacific,65,R1,2,High-income Asia Pacific,High-income
+Brunei Darussalam,66,BRN,3,High-income Asia Pacific,High-income
+Japan,67,JPN,3,High-income Asia Pacific,High-income
+Aichi,35446,JPN_35446,4,High-income Asia Pacific,High-income
+Akita,35428,JPN_35428,4,High-income Asia Pacific,High-income
+Aomori,35425,JPN_35425,4,High-income Asia Pacific,High-income
+Chiba,35435,JPN_35435,4,High-income Asia Pacific,High-income
+Ehime,35461,JPN_35461,4,High-income Asia Pacific,High-income
+Fukui,35441,JPN_35441,4,High-income Asia Pacific,High-income
+Fukuoka,35463,JPN_35463,4,High-income Asia Pacific,High-income
+Fukushima,35430,JPN_35430,4,High-income Asia Pacific,High-income
+Gifu,35444,JPN_35444,4,High-income Asia Pacific,High-income
+Gunma,35433,JPN_35433,4,High-income Asia Pacific,High-income
+Hiroshima,35457,JPN_35457,4,High-income Asia Pacific,High-income
+Hokkaidō,35424,JPN_35424,4,High-income Asia Pacific,High-income
+Hyōgo,35451,JPN_35451,4,High-income Asia Pacific,High-income
+Ibaraki,35431,JPN_35431,4,High-income Asia Pacific,High-income
+Ishikawa,35440,JPN_35440,4,High-income Asia Pacific,High-income
+Iwate,35426,JPN_35426,4,High-income Asia Pacific,High-income
+Kagawa,35460,JPN_35460,4,High-income Asia Pacific,High-income
+Kagoshima,35469,JPN_35469,4,High-income Asia Pacific,High-income
+Kanagawa,35437,JPN_35437,4,High-income Asia Pacific,High-income
+Kōchi,35462,JPN_35462,4,High-income Asia Pacific,High-income
+Kumamoto,35466,JPN_35466,4,High-income Asia Pacific,High-income
+Kyōto,35449,JPN_35449,4,High-income Asia Pacific,High-income
+Mie,35447,JPN_35447,4,High-income Asia Pacific,High-income
+Miyagi,35427,JPN_35427,4,High-income Asia Pacific,High-income
+Miyazaki,35468,JPN_35468,4,High-income Asia Pacific,High-income
+Nagano,35443,JPN_35443,4,High-income Asia Pacific,High-income
+Nagasaki,35465,JPN_35465,4,High-income Asia Pacific,High-income
+Nara,35452,JPN_35452,4,High-income Asia Pacific,High-income
+Niigata,35438,JPN_35438,4,High-income Asia Pacific,High-income
+Ōita,35467,JPN_35467,4,High-income Asia Pacific,High-income
+Okayama,35456,JPN_35456,4,High-income Asia Pacific,High-income
+Okinawa,35470,JPN_35470,4,High-income Asia Pacific,High-income
+Ōsaka,35450,JPN_35450,4,High-income Asia Pacific,High-income
+Saga,35464,JPN_35464,4,High-income Asia Pacific,High-income
+Saitama,35434,JPN_35434,4,High-income Asia Pacific,High-income
+Shiga,35448,JPN_35448,4,High-income Asia Pacific,High-income
+Shimane,35455,JPN_35455,4,High-income Asia Pacific,High-income
+Shizuoka,35445,JPN_35445,4,High-income Asia Pacific,High-income
+Tochigi,35432,JPN_35432,4,High-income Asia Pacific,High-income
+Tokushima,35459,JPN_35459,4,High-income Asia Pacific,High-income
+Tōkyō,35436,JPN_35436,4,High-income Asia Pacific,High-income
+Tottori,35454,JPN_35454,4,High-income Asia Pacific,High-income
+Toyama,35439,JPN_35439,4,High-income Asia Pacific,High-income
+Wakayama,35453,JPN_35453,4,High-income Asia Pacific,High-income
+Yamagata,35429,JPN_35429,4,High-income Asia Pacific,High-income
+Yamaguchi,35458,JPN_35458,4,High-income Asia Pacific,High-income
+Yamanashi,35442,JPN_35442,4,High-income Asia Pacific,High-income
+Republic of Korea,68,KOR,3,High-income Asia Pacific,High-income
+Singapore,69,SGP,3,High-income Asia Pacific,High-income
+High-income North America,100,R16,2,High-income North America,High-income
+Canada,101,CAN,3,High-income North America,High-income
+Greenland,349,GRL,3,High-income North America,High-income
+United States of America,102,USA,3,High-income North America,High-income
+Alabama,523,USA_523,4,High-income North America,High-income
+Alaska,524,USA_524,4,High-income North America,High-income
+Arizona,525,USA_525,4,High-income North America,High-income
+Arkansas,526,USA_526,4,High-income North America,High-income
+California,527,USA_527,4,High-income North America,High-income
+Colorado,528,USA_528,4,High-income North America,High-income
+Connecticut,529,USA_529,4,High-income North America,High-income
+Delaware,530,USA_530,4,High-income North America,High-income
+District of Columbia,531,USA_531,4,High-income North America,High-income
+Florida,532,USA_532,4,High-income North America,High-income
+Georgia,533,USA_533,4,High-income North America,High-income
+Hawaii,534,USA_534,4,High-income North America,High-income
+Idaho,535,USA_535,4,High-income North America,High-income
+Illinois,536,USA_536,4,High-income North America,High-income
+Indiana,537,USA_537,4,High-income North America,High-income
+Iowa,538,USA_538,4,High-income North America,High-income
+Kansas,539,USA_539,4,High-income North America,High-income
+Kentucky,540,USA_540,4,High-income North America,High-income
+Louisiana,541,USA_541,4,High-income North America,High-income
+Maine,542,USA_542,4,High-income North America,High-income
+Maryland,543,USA_543,4,High-income North America,High-income
+Massachusetts,544,USA_544,4,High-income North America,High-income
+Michigan,545,USA_545,4,High-income North America,High-income
+Minnesota,546,USA_546,4,High-income North America,High-income
+Mississippi,547,USA_547,4,High-income North America,High-income
+Missouri,548,USA_548,4,High-income North America,High-income
+Montana,549,USA_549,4,High-income North America,High-income
+Nebraska,550,USA_550,4,High-income North America,High-income
+Nevada,551,USA_551,4,High-income North America,High-income
+New Hampshire,552,USA_552,4,High-income North America,High-income
+New Jersey,553,USA_553,4,High-income North America,High-income
+New Mexico,554,USA_554,4,High-income North America,High-income
+New York,555,USA_555,4,High-income North America,High-income
+North Carolina,556,USA_556,4,High-income North America,High-income
+North Dakota,557,USA_557,4,High-income North America,High-income
+Ohio,558,USA_558,4,High-income North America,High-income
+Oklahoma,559,USA_559,4,High-income North America,High-income
+Oregon,560,USA_560,4,High-income North America,High-income
+Pennsylvania,561,USA_561,4,High-income North America,High-income
+Rhode Island,562,USA_562,4,High-income North America,High-income
+South Carolina,563,USA_563,4,High-income North America,High-income
+South Dakota,564,USA_564,4,High-income North America,High-income
+Tennessee,565,USA_565,4,High-income North America,High-income
+Texas,566,USA_566,4,High-income North America,High-income
+Utah,567,USA_567,4,High-income North America,High-income
+Vermont,568,USA_568,4,High-income North America,High-income
+Virginia,569,USA_569,4,High-income North America,High-income
+Washington,570,USA_570,4,High-income North America,High-income
+West Virginia,571,USA_571,4,High-income North America,High-income
+Wisconsin,572,USA_572,4,High-income North America,High-income
+Wyoming,573,USA_573,4,High-income North America,High-income
+Southern Latin America,96,R13,2,Southern Latin America,High-income
+Argentina,97,ARG,3,Southern Latin America,High-income
+Chile,98,CHL,3,Southern Latin America,High-income
+Uruguay,99,URY,3,Southern Latin America,High-income
+Western Europe,73,R10,2,Western Europe,High-income
+Andorra,74,AND,3,Western Europe,High-income
+Austria,75,AUT,3,Western Europe,High-income
+Belgium,76,BEL,3,Western Europe,High-income
+Cyprus,77,CYP,3,Western Europe,High-income
+Denmark,78,DNK,3,Western Europe,High-income
+Finland,79,FIN,3,Western Europe,High-income
+France,80,FRA,3,Western Europe,High-income
+Germany,81,DEU,3,Western Europe,High-income
+Greece,82,GRC,3,Western Europe,High-income
+Iceland,83,ISL,3,Western Europe,High-income
+Ireland,84,IRL,3,Western Europe,High-income
+Israel,85,ISR,3,Western Europe,High-income
+Italy,86,ITA,3,Western Europe,High-income
+Abruzzo,35507,ITA_35507,4,Western Europe,High-income
+Basilicata,35511,ITA_35511,4,Western Europe,High-income
+Calabria,35512,ITA_35512,4,Western Europe,High-income
+Campania,35509,ITA_35509,4,Western Europe,High-income
+Emilia-Romagna,35502,ITA_35502,4,Western Europe,High-income
+Friuli-Venezia Giulia,35501,ITA_35501,4,Western Europe,High-income
+Lazio,35506,ITA_35506,4,Western Europe,High-income
+Liguria,35496,ITA_35496,4,Western Europe,High-income
+Lombardia,35497,ITA_35497,4,Western Europe,High-income
+Marche,35505,ITA_35505,4,Western Europe,High-income
+Molise,35508,ITA_35508,4,Western Europe,High-income
+Piemonte,35494,ITA_35494,4,Western Europe,High-income
+Provincia autonoma di Bolzano,35498,ITA_35498,4,Western Europe,High-income
+Provincia autonoma di Trento,35499,ITA_35499,4,Western Europe,High-income
+Puglia,35510,ITA_35510,4,Western Europe,High-income
+Sardegna,35514,ITA_35514,4,Western Europe,High-income
+Sicilia,35513,ITA_35513,4,Western Europe,High-income
+Toscana,35503,ITA_35503,4,Western Europe,High-income
+Umbria,35504,ITA_35504,4,Western Europe,High-income
+Valle d'Aosta,35495,ITA_35495,4,Western Europe,High-income
+Veneto,35500,ITA_35500,4,Western Europe,High-income
+Luxembourg,87,LUX,3,Western Europe,High-income
+Malta,88,MLT,3,Western Europe,High-income
+Monaco,367,MCO,3,Western Europe,High-income
+Netherlands,89,NLD,3,Western Europe,High-income
+Norway,90,NOR,3,Western Europe,High-income
+Agder,60133,NOR_60133,4,Western Europe,High-income
+Innlandet,60135,NOR_60135,4,Western Europe,High-income
+Møre og Romsdal,4923,NOR_4923,4,Western Europe,High-income
+Nordland,4926,NOR_4926,4,Western Europe,High-income
+Oslo,4910,NOR_4910,4,Western Europe,High-income
+Rogaland,4920,NOR_4920,4,Western Europe,High-income
+Troms og Finnmark,60137,NOR_60137,4,Western Europe,High-income
+Trøndelag,53432,NOR_53432,4,Western Europe,High-income
+Vestfold og Telemark,60134,NOR_60134,4,Western Europe,High-income
+Vestland,60132,NOR_60132,4,Western Europe,High-income
+Viken,60136,NOR_60136,4,Western Europe,High-income
+Portugal,91,PRT,3,Western Europe,High-income
+San Marino,396,SMR,3,Western Europe,High-income
+Spain,92,ESP,3,Western Europe,High-income
+Sweden,93,SWE,3,Western Europe,High-income
+Stockholm,4944,SWE_4944,4,Western Europe,High-income
+Sweden except Stockholm,4940,SWE_4940,4,Western Europe,High-income
+Switzerland,94,CHE,3,Western Europe,High-income
+United Kingdom,95,GBR,3,Western Europe,High-income
+England,4749,GBR_4749,4,Western Europe,High-income
+East Midlands,4621,GBR_4621,5,Western Europe,High-income
+Derby,44697,GBR_44697,6,Western Europe,High-income
+Derbyshire,44698,GBR_44698,6,Western Europe,High-income
+Leicester,44701,GBR_44701,6,Western Europe,High-income
+Leicestershire,44694,GBR_44694,6,Western Europe,High-income
+Lincolnshire,44695,GBR_44695,6,Western Europe,High-income
+Northamptonshire,44693,GBR_44693,6,Western Europe,High-income
+Nottingham,44700,GBR_44700,6,Western Europe,High-income
+Nottinghamshire,44699,GBR_44699,6,Western Europe,High-income
+Rutland,44696,GBR_44696,6,Western Europe,High-income
+East of England,4623,GBR_4623,5,Western Europe,High-income
+Bedford,44716,GBR_44716,6,Western Europe,High-income
+Cambridgeshire,44721,GBR_44721,6,Western Europe,High-income
+Central Bedfordshire,44717,GBR_44717,6,Western Europe,High-income
+Essex,44720,GBR_44720,6,Western Europe,High-income
+Hertfordshire,44719,GBR_44719,6,Western Europe,High-income
+Luton,44726,GBR_44726,6,Western Europe,High-income
+Norfolk,44723,GBR_44723,6,Western Europe,High-income
+Peterborough,44725,GBR_44725,6,Western Europe,High-income
+Southend-on-Sea,44724,GBR_44724,6,Western Europe,High-income
+Suffolk,44718,GBR_44718,6,Western Europe,High-income
+Thurrock,44722,GBR_44722,6,Western Europe,High-income
+Greater London,4624,GBR_4624,5,Western Europe,High-income
+Barking and Dagenham,44754,GBR_44754,6,Western Europe,High-income
+Barnet,44729,GBR_44729,6,Western Europe,High-income
+Bexley,44732,GBR_44732,6,Western Europe,High-income
+Brent,44735,GBR_44735,6,Western Europe,High-income
+Bromley,44731,GBR_44731,6,Western Europe,High-income
+Camden,44748,GBR_44748,6,Western Europe,High-income
+Croydon,44742,GBR_44742,6,Western Europe,High-income
+Ealing,44744,GBR_44744,6,Western Europe,High-income
+Enfield,44741,GBR_44741,6,Western Europe,High-income
+Greenwich,44745,GBR_44745,6,Western Europe,High-income
+Hackney,44756,GBR_44756,6,Western Europe,High-income
+Hammersmith and Fulham,44743,GBR_44743,6,Western Europe,High-income
+Haringey,44755,GBR_44755,6,Western Europe,High-income
+Harrow,44740,GBR_44740,6,Western Europe,High-income
+Havering,44737,GBR_44737,6,Western Europe,High-income
+Hillingdon,44736,GBR_44736,6,Western Europe,High-income
+Hounslow,44751,GBR_44751,6,Western Europe,High-income
+Islington,44757,GBR_44757,6,Western Europe,High-income
+Kensington and Chelsea,44728,GBR_44728,6,Western Europe,High-income
+Kingston upon Thames,44738,GBR_44738,6,Western Europe,High-income
+Lambeth,44749,GBR_44749,6,Western Europe,High-income
+Lewisham,44750,GBR_44750,6,Western Europe,High-income
+Merton,44734,GBR_44734,6,Western Europe,High-income
+Newham,44753,GBR_44753,6,Western Europe,High-income
+Redbridge,44733,GBR_44733,6,Western Europe,High-income
+Richmond upon Thames,44727,GBR_44727,6,Western Europe,High-income
+Southwark,44752,GBR_44752,6,Western Europe,High-income
+Sutton,44739,GBR_44739,6,Western Europe,High-income
+Tower Hamlets,44758,GBR_44758,6,Western Europe,High-income
+Waltham Forest,44747,GBR_44747,6,Western Europe,High-income
+Wandsworth,44746,GBR_44746,6,Western Europe,High-income
+Westminster,44730,GBR_44730,6,Western Europe,High-income
+North East England,4618,GBR_4618,5,Western Europe,High-income
+County Durham,44649,GBR_44649,6,Western Europe,High-income
+Darlington,44643,GBR_44643,6,Western Europe,High-income
+Gateshead,44650,GBR_44650,6,Western Europe,High-income
+Hartlepool,44654,GBR_44654,6,Western Europe,High-income
+Middlesbrough,44651,GBR_44651,6,Western Europe,High-income
+Newcastle upon Tyne,44646,GBR_44646,6,Western Europe,High-income
+North Tyneside,44647,GBR_44647,6,Western Europe,High-income
+Northumberland,44644,GBR_44644,6,Western Europe,High-income
+Redcar and Cleveland,44648,GBR_44648,6,Western Europe,High-income
+South Tyneside,44652,GBR_44652,6,Western Europe,High-income
+Stockton-on-Tees,44645,GBR_44645,6,Western Europe,High-income
+Sunderland,44653,GBR_44653,6,Western Europe,High-income
+North West England,4619,GBR_4619,5,Western Europe,High-income
+Blackburn with Darwen,44674,GBR_44674,6,Western Europe,High-income
+Blackpool,44676,GBR_44676,6,Western Europe,High-income
+Bolton,44662,GBR_44662,6,Western Europe,High-income
+Bury,44664,GBR_44664,6,Western Europe,High-income
+Cheshire East,44655,GBR_44655,6,Western Europe,High-income
+Cheshire West and Chester,44658,GBR_44658,6,Western Europe,High-income
+Cumbria,44661,GBR_44661,6,Western Europe,High-income
+Halton,44670,GBR_44670,6,Western Europe,High-income
+Knowsley,44675,GBR_44675,6,Western Europe,High-income
+Lancashire,44660,GBR_44660,6,Western Europe,High-income
+Liverpool,44671,GBR_44671,6,Western Europe,High-income
+Manchester,44677,GBR_44677,6,Western Europe,High-income
+Oldham,44667,GBR_44667,6,Western Europe,High-income
+Rochdale,44668,GBR_44668,6,Western Europe,High-income
+Salford,44673,GBR_44673,6,Western Europe,High-income
+Sefton,44659,GBR_44659,6,Western Europe,High-income
+St Helens,44665,GBR_44665,6,Western Europe,High-income
+Stockport,44656,GBR_44656,6,Western Europe,High-income
+Tameside,44672,GBR_44672,6,Western Europe,High-income
+Trafford,44657,GBR_44657,6,Western Europe,High-income
+Warrington,44666,GBR_44666,6,Western Europe,High-income
+Wigan,44669,GBR_44669,6,Western Europe,High-income
+Wirral,44663,GBR_44663,6,Western Europe,High-income
+South East England,4625,GBR_4625,5,Western Europe,High-income
+Bracknell Forest,44765,GBR_44765,6,Western Europe,High-income
+Brighton and Hove,44770,GBR_44770,6,Western Europe,High-income
+Buckinghamshire,44760,GBR_44760,6,Western Europe,High-income
+East Sussex,44772,GBR_44772,6,Western Europe,High-income
+Hampshire,44764,GBR_44764,6,Western Europe,High-income
+Isle of Wight,44774,GBR_44774,6,Western Europe,High-income
+Kent,44769,GBR_44769,6,Western Europe,High-income
+Medway,44771,GBR_44771,6,Western Europe,High-income
+Milton Keynes,44775,GBR_44775,6,Western Europe,High-income
+Oxfordshire,44767,GBR_44767,6,Western Europe,High-income
+Portsmouth,44773,GBR_44773,6,Western Europe,High-income
+Reading,44768,GBR_44768,6,Western Europe,High-income
+Slough,44777,GBR_44777,6,Western Europe,High-income
+Southampton,44776,GBR_44776,6,Western Europe,High-income
+Surrey,44761,GBR_44761,6,Western Europe,High-income
+West Berkshire,44763,GBR_44763,6,Western Europe,High-income
+West Sussex,44766,GBR_44766,6,Western Europe,High-income
+Windsor and Maidenhead,44762,GBR_44762,6,Western Europe,High-income
+Wokingham,44759,GBR_44759,6,Western Europe,High-income
+South West England,4626,GBR_4626,5,Western Europe,High-income
+Bath and North East Somerset,44784,GBR_44784,6,Western Europe,High-income
+Bournemouth,44790,GBR_44790,6,Western Europe,High-income
+"Bristol, City of",44789,GBR_44789,6,Western Europe,High-income
+Cornwall,44791,GBR_44791,6,Western Europe,High-income
+Devon,44782,GBR_44782,6,Western Europe,High-income
+Dorset,44779,GBR_44779,6,Western Europe,High-income
+Gloucestershire,44785,GBR_44785,6,Western Europe,High-income
+North Somerset,44781,GBR_44781,6,Western Europe,High-income
+Plymouth,44792,GBR_44792,6,Western Europe,High-income
+Poole,44783,GBR_44783,6,Western Europe,High-income
+Somerset,44786,GBR_44786,6,Western Europe,High-income
+South Gloucestershire,44778,GBR_44778,6,Western Europe,High-income
+Swindon,44787,GBR_44787,6,Western Europe,High-income
+Torbay,44788,GBR_44788,6,Western Europe,High-income
+Wiltshire,44780,GBR_44780,6,Western Europe,High-income
+West Midlands,4622,GBR_4622,5,Western Europe,High-income
+Birmingham,44714,GBR_44714,6,Western Europe,High-income
+Coventry,44709,GBR_44709,6,Western Europe,High-income
+Dudley,44708,GBR_44708,6,Western Europe,High-income
+"Herefordshire, County of",44703,GBR_44703,6,Western Europe,High-income
+Sandwell,44715,GBR_44715,6,Western Europe,High-income
+Shropshire,44705,GBR_44705,6,Western Europe,High-income
+Solihull,44704,GBR_44704,6,Western Europe,High-income
+Staffordshire,44707,GBR_44707,6,Western Europe,High-income
+Stoke-on-Trent,44711,GBR_44711,6,Western Europe,High-income
+Telford and Wrekin,44710,GBR_44710,6,Western Europe,High-income
+Walsall,44712,GBR_44712,6,Western Europe,High-income
+Warwickshire,44702,GBR_44702,6,Western Europe,High-income
+Wolverhampton,44713,GBR_44713,6,Western Europe,High-income
+Worcestershire,44706,GBR_44706,6,Western Europe,High-income
+Yorkshire and the Humber,4620,GBR_4620,5,Western Europe,High-income
+Barnsley,44692,GBR_44692,6,Western Europe,High-income
+Bradford,44684,GBR_44684,6,Western Europe,High-income
+Calderdale,44682,GBR_44682,6,Western Europe,High-income
+Doncaster,44690,GBR_44690,6,Western Europe,High-income
+East Riding of Yorkshire,44679,GBR_44679,6,Western Europe,High-income
+"Kingston upon Hull, City of",44691,GBR_44691,6,Western Europe,High-income
+Kirklees,44685,GBR_44685,6,Western Europe,High-income
+Leeds,44686,GBR_44686,6,Western Europe,High-income
+North East Lincolnshire,44681,GBR_44681,6,Western Europe,High-income
+North Lincolnshire,44683,GBR_44683,6,Western Europe,High-income
+North Yorkshire,44678,GBR_44678,6,Western Europe,High-income
+Rotherham,44689,GBR_44689,6,Western Europe,High-income
+Sheffield,44687,GBR_44687,6,Western Europe,High-income
+Wakefield,44688,GBR_44688,6,Western Europe,High-income
+York,44680,GBR_44680,6,Western Europe,High-income
+Northern Ireland,433,GBR_433,4,Western Europe,High-income
+Scotland,434,GBR_434,4,Western Europe,High-income
+Wales,4636,GBR_4636,4,Western Europe,High-income
+Latin America and Caribbean,103,S7,1,"",Latin America and Caribbean
+Andean Latin America,120,R11,2,Andean Latin America,Latin America and Caribbean
+Bolivia (Plurinational State of),121,BOL,3,Andean Latin America,Latin America and Caribbean
+Ecuador,122,ECU,3,Andean Latin America,Latin America and Caribbean
+Peru,123,PER,3,Andean Latin America,Latin America and Caribbean
+Caribbean,104,R7,2,Caribbean,Latin America and Caribbean
+Antigua and Barbuda,105,ATG,3,Caribbean,Latin America and Caribbean
+Bahamas,106,BHS,3,Caribbean,Latin America and Caribbean
+Barbados,107,BRB,3,Caribbean,Latin America and Caribbean
+Belize,108,BLZ,3,Caribbean,Latin America and Caribbean
+Bermuda,305,BMU,3,Caribbean,Latin America and Caribbean
+Cuba,109,CUB,3,Caribbean,Latin America and Caribbean
+Dominica,110,DMA,3,Caribbean,Latin America and Caribbean
+Dominican Republic,111,DOM,3,Caribbean,Latin America and Caribbean
+Grenada,112,GRD,3,Caribbean,Latin America and Caribbean
+Guyana,113,GUY,3,Caribbean,Latin America and Caribbean
+Haiti,114,HTI,3,Caribbean,Latin America and Caribbean
+Jamaica,115,JAM,3,Caribbean,Latin America and Caribbean
+Puerto Rico,385,PRI,3,Caribbean,Latin America and Caribbean
+Saint Kitts and Nevis,393,KNA,3,Caribbean,Latin America and Caribbean
+Saint Lucia,116,LCA,3,Caribbean,Latin America and Caribbean
+Saint Vincent and the Grenadines,117,VCT,3,Caribbean,Latin America and Caribbean
+Suriname,118,SUR,3,Caribbean,Latin America and Caribbean
+Trinidad and Tobago,119,TTO,3,Caribbean,Latin America and Caribbean
+United States Virgin Islands,422,VIR,3,Caribbean,Latin America and Caribbean
+Central Latin America,124,R12,2,Central Latin America,Latin America and Caribbean
+Colombia,125,COL,3,Central Latin America,Latin America and Caribbean
+Costa Rica,126,CRI,3,Central Latin America,Latin America and Caribbean
+El Salvador,127,SLV,3,Central Latin America,Latin America and Caribbean
+Guatemala,128,GTM,3,Central Latin America,Latin America and Caribbean
+Honduras,129,HND,3,Central Latin America,Latin America and Caribbean
+Mexico,130,MEX,3,Central Latin America,Latin America and Caribbean
+Aguascalientes,4643,MEX_4643,4,Central Latin America,Latin America and Caribbean
+Baja California,4644,MEX_4644,4,Central Latin America,Latin America and Caribbean
+Baja California Sur,4645,MEX_4645,4,Central Latin America,Latin America and Caribbean
+Campeche,4646,MEX_4646,4,Central Latin America,Latin America and Caribbean
+Chiapas,4649,MEX_4649,4,Central Latin America,Latin America and Caribbean
+Chihuahua,4650,MEX_4650,4,Central Latin America,Latin America and Caribbean
+Coahuila,4647,MEX_4647,4,Central Latin America,Latin America and Caribbean
+Colima,4648,MEX_4648,4,Central Latin America,Latin America and Caribbean
+Durango,4652,MEX_4652,4,Central Latin America,Latin America and Caribbean
+Guanajuato,4653,MEX_4653,4,Central Latin America,Latin America and Caribbean
+Guerrero,4654,MEX_4654,4,Central Latin America,Latin America and Caribbean
+Hidalgo,4655,MEX_4655,4,Central Latin America,Latin America and Caribbean
+Jalisco,4656,MEX_4656,4,Central Latin America,Latin America and Caribbean
+México,4657,MEX_4657,4,Central Latin America,Latin America and Caribbean
+Mexico City,4651,MEX_4651,4,Central Latin America,Latin America and Caribbean
+Michoacán de Ocampo,4658,MEX_4658,4,Central Latin America,Latin America and Caribbean
+Morelos,4659,MEX_4659,4,Central Latin America,Latin America and Caribbean
+Nayarit,4660,MEX_4660,4,Central Latin America,Latin America and Caribbean
+Nuevo León,4661,MEX_4661,4,Central Latin America,Latin America and Caribbean
+Oaxaca,4662,MEX_4662,4,Central Latin America,Latin America and Caribbean
+Puebla,4663,MEX_4663,4,Central Latin America,Latin America and Caribbean
+Querétaro,4664,MEX_4664,4,Central Latin America,Latin America and Caribbean
+Quintana Roo,4665,MEX_4665,4,Central Latin America,Latin America and Caribbean
+San Luis Potosí,4666,MEX_4666,4,Central Latin America,Latin America and Caribbean
+Sinaloa,4667,MEX_4667,4,Central Latin America,Latin America and Caribbean
+Sonora,4668,MEX_4668,4,Central Latin America,Latin America and Caribbean
+Tabasco,4669,MEX_4669,4,Central Latin America,Latin America and Caribbean
+Tamaulipas,4670,MEX_4670,4,Central Latin America,Latin America and Caribbean
+Tlaxcala,4671,MEX_4671,4,Central Latin America,Latin America and Caribbean
+Veracruz de Ignacio de la Llave,4672,MEX_4672,4,Central Latin America,Latin America and Caribbean
+Yucatán,4673,MEX_4673,4,Central Latin America,Latin America and Caribbean
+Zacatecas,4674,MEX_4674,4,Central Latin America,Latin America and Caribbean
+Nicaragua,131,NIC,3,Central Latin America,Latin America and Caribbean
+Panama,132,PAN,3,Central Latin America,Latin America and Caribbean
+Venezuela (Bolivarian Republic of),133,VEN,3,Central Latin America,Latin America and Caribbean
+Tropical Latin America,134,R14,2,Tropical Latin America,Latin America and Caribbean
+Brazil,135,BRA,3,Tropical Latin America,Latin America and Caribbean
+Acre,4750,BRA_4750,4,Tropical Latin America,Latin America and Caribbean
+Alagoas,4751,BRA_4751,4,Tropical Latin America,Latin America and Caribbean
+Amapá,4753,BRA_4753,4,Tropical Latin America,Latin America and Caribbean
+Amazonas,4752,BRA_4752,4,Tropical Latin America,Latin America and Caribbean
+Bahia,4754,BRA_4754,4,Tropical Latin America,Latin America and Caribbean
+Ceará,4755,BRA_4755,4,Tropical Latin America,Latin America and Caribbean
+Distrito Federal,4756,BRA_4756,4,Tropical Latin America,Latin America and Caribbean
+Espírito Santo,4757,BRA_4757,4,Tropical Latin America,Latin America and Caribbean
+Goiás,4758,BRA_4758,4,Tropical Latin America,Latin America and Caribbean
+Maranhão,4759,BRA_4759,4,Tropical Latin America,Latin America and Caribbean
+Mato Grosso,4762,BRA_4762,4,Tropical Latin America,Latin America and Caribbean
+Mato Grosso do Sul,4761,BRA_4761,4,Tropical Latin America,Latin America and Caribbean
+Minas Gerais,4760,BRA_4760,4,Tropical Latin America,Latin America and Caribbean
+Pará,4763,BRA_4763,4,Tropical Latin America,Latin America and Caribbean
+Paraíba,4764,BRA_4764,4,Tropical Latin America,Latin America and Caribbean
+Paraná,4765,BRA_4765,4,Tropical Latin America,Latin America and Caribbean
+Pernambuco,4766,BRA_4766,4,Tropical Latin America,Latin America and Caribbean
+Piaui,4767,BRA_4767,4,Tropical Latin America,Latin America and Caribbean
+Rio de Janeiro,4768,BRA_4768,4,Tropical Latin America,Latin America and Caribbean
+Rio Grande do Norte,4769,BRA_4769,4,Tropical Latin America,Latin America and Caribbean
+Rio Grande do Sul,4772,BRA_4772,4,Tropical Latin America,Latin America and Caribbean
+Rondônia,4770,BRA_4770,4,Tropical Latin America,Latin America and Caribbean
+Roraima,4771,BRA_4771,4,Tropical Latin America,Latin America and Caribbean
+Santa Catarina,4773,BRA_4773,4,Tropical Latin America,Latin America and Caribbean
+São Paulo,4775,BRA_4775,4,Tropical Latin America,Latin America and Caribbean
+Sergipe,4774,BRA_4774,4,Tropical Latin America,Latin America and Caribbean
+Tocantins,4776,BRA_4776,4,Tropical Latin America,Latin America and Caribbean
+Paraguay,136,PRY,3,Tropical Latin America,Latin America and Caribbean
+North Africa and Middle East,137,S4,1,"",North Africa and Middle East
+North Africa and Middle East,138,R15,2,North Africa and Middle East,North Africa and Middle East
+Afghanistan,160,AFG,3,North Africa and Middle East,North Africa and Middle East
+Algeria,139,DZA,3,North Africa and Middle East,North Africa and Middle East
+Bahrain,140,BHR,3,North Africa and Middle East,North Africa and Middle East
+Egypt,141,EGY,3,North Africa and Middle East,North Africa and Middle East
+Iran (Islamic Republic of),142,IRN,3,North Africa and Middle East,North Africa and Middle East
+Alborz,44864,IRN_44864,4,North Africa and Middle East,North Africa and Middle East
+Ardebil,44865,IRN_44865,4,North Africa and Middle East,North Africa and Middle East
+Bushehr,44868,IRN_44868,4,North Africa and Middle East,North Africa and Middle East
+Chahar Mahaal and Bakhtiari,44869,IRN_44869,4,North Africa and Middle East,North Africa and Middle East
+East Azarbayejan,44866,IRN_44866,4,North Africa and Middle East,North Africa and Middle East
+Fars,44870,IRN_44870,4,North Africa and Middle East,North Africa and Middle East
+Gilan,44871,IRN_44871,4,North Africa and Middle East,North Africa and Middle East
+Golestan,44872,IRN_44872,4,North Africa and Middle East,North Africa and Middle East
+Hamadan,44873,IRN_44873,4,North Africa and Middle East,North Africa and Middle East
+Hormozgan,44874,IRN_44874,4,North Africa and Middle East,North Africa and Middle East
+Ilam,44875,IRN_44875,4,North Africa and Middle East,North Africa and Middle East
+Isfahan,44876,IRN_44876,4,North Africa and Middle East,North Africa and Middle East
+Kerman,44877,IRN_44877,4,North Africa and Middle East,North Africa and Middle East
+Kermanshah,44878,IRN_44878,4,North Africa and Middle East,North Africa and Middle East
+Khorasan-e-Razavi,44880,IRN_44880,4,North Africa and Middle East,North Africa and Middle East
+Khuzestan,44882,IRN_44882,4,North Africa and Middle East,North Africa and Middle East
+Kohgiluyeh and Boyer-Ahmad,44883,IRN_44883,4,North Africa and Middle East,North Africa and Middle East
+Kurdistan,44884,IRN_44884,4,North Africa and Middle East,North Africa and Middle East
+Lorestan,44885,IRN_44885,4,North Africa and Middle East,North Africa and Middle East
+Markazi,44886,IRN_44886,4,North Africa and Middle East,North Africa and Middle East
+Mazandaran,44887,IRN_44887,4,North Africa and Middle East,North Africa and Middle East
+North Khorasan,44879,IRN_44879,4,North Africa and Middle East,North Africa and Middle East
+Qazvin,44888,IRN_44888,4,North Africa and Middle East,North Africa and Middle East
+Qom,44889,IRN_44889,4,North Africa and Middle East,North Africa and Middle East
+Semnan,44890,IRN_44890,4,North Africa and Middle East,North Africa and Middle East
+Sistan and Baluchistan,44891,IRN_44891,4,North Africa and Middle East,North Africa and Middle East
+South Khorasan,44881,IRN_44881,4,North Africa and Middle East,North Africa and Middle East
+Tehran,44892,IRN_44892,4,North Africa and Middle East,North Africa and Middle East
+West Azarbayejan,44867,IRN_44867,4,North Africa and Middle East,North Africa and Middle East
+Yazd,44893,IRN_44893,4,North Africa and Middle East,North Africa and Middle East
+Zanjan,44894,IRN_44894,4,North Africa and Middle East,North Africa and Middle East
+Iraq,143,IRQ,3,North Africa and Middle East,North Africa and Middle East
+Jordan,144,JOR,3,North Africa and Middle East,North Africa and Middle East
+Kuwait,145,KWT,3,North Africa and Middle East,North Africa and Middle East
+Lebanon,146,LBN,3,North Africa and Middle East,North Africa and Middle East
+Libya,147,LBY,3,North Africa and Middle East,North Africa and Middle East
+Morocco,148,MAR,3,North Africa and Middle East,North Africa and Middle East
+Oman,150,OMN,3,North Africa and Middle East,North Africa and Middle East
+Palestine,149,PSE,3,North Africa and Middle East,North Africa and Middle East
+Qatar,151,QAT,3,North Africa and Middle East,North Africa and Middle East
+Saudi Arabia,152,SAU,3,North Africa and Middle East,North Africa and Middle East
+Sudan,522,SDN,3,North Africa and Middle East,North Africa and Middle East
+Syrian Arab Republic,153,SYR,3,North Africa and Middle East,North Africa and Middle East
+Tunisia,154,TUN,3,North Africa and Middle East,North Africa and Middle East
+Türkiye,155,TUR,3,North Africa and Middle East,North Africa and Middle East
+United Arab Emirates,156,ARE,3,North Africa and Middle East,North Africa and Middle East
+Yemen,157,YEM,3,North Africa and Middle East,North Africa and Middle East
+South Asia,158,S5,1,"",South Asia
+South Asia,159,R4,2,South Asia,South Asia
+Bangladesh,161,BGD,3,South Asia,South Asia
+Bhutan,162,BTN,3,South Asia,South Asia
+India,163,IND,3,South Asia,South Asia
+Andhra Pradesh,4841,IND_4841,4,South Asia,South Asia
+"Andhra Pradesh, Rural",43908,IND_43908,5,South Asia,South Asia
+"Andhra Pradesh, Urban",43872,IND_43872,5,South Asia,South Asia
+Arunachal Pradesh,4842,IND_4842,4,South Asia,South Asia
+"Arunachal Pradesh, Rural",43909,IND_43909,5,South Asia,South Asia
+"Arunachal Pradesh, Urban",43873,IND_43873,5,South Asia,South Asia
+Assam,4843,IND_4843,4,South Asia,South Asia
+"Assam, Rural",43910,IND_43910,5,South Asia,South Asia
+"Assam, Urban",43874,IND_43874,5,South Asia,South Asia
+Bihar,4844,IND_4844,4,South Asia,South Asia
+"Bihar, Rural",43911,IND_43911,5,South Asia,South Asia
+"Bihar, Urban",43875,IND_43875,5,South Asia,South Asia
+Chhattisgarh,4846,IND_4846,4,South Asia,South Asia
+"Chhattisgarh, Rural",43913,IND_43913,5,South Asia,South Asia
+"Chhattisgarh, Urban",43877,IND_43877,5,South Asia,South Asia
+Delhi,4849,IND_4849,4,South Asia,South Asia
+"Delhi, Rural",43916,IND_43916,5,South Asia,South Asia
+"Delhi, Urban",43880,IND_43880,5,South Asia,South Asia
+Goa,4850,IND_4850,4,South Asia,South Asia
+"Goa, Rural",43917,IND_43917,5,South Asia,South Asia
+"Goa, Urban",43881,IND_43881,5,South Asia,South Asia
+Gujarat,4851,IND_4851,4,South Asia,South Asia
+"Gujarat, Rural",43918,IND_43918,5,South Asia,South Asia
+"Gujarat, Urban",43882,IND_43882,5,South Asia,South Asia
+Haryana,4852,IND_4852,4,South Asia,South Asia
+"Haryana, Rural",43919,IND_43919,5,South Asia,South Asia
+"Haryana, Urban",43883,IND_43883,5,South Asia,South Asia
+Himachal Pradesh,4853,IND_4853,4,South Asia,South Asia
+"Himachal Pradesh, Rural",43920,IND_43920,5,South Asia,South Asia
+"Himachal Pradesh, Urban",43884,IND_43884,5,South Asia,South Asia
+Jammu & Kashmir and Ladakh,4854,IND_4854,4,South Asia,South Asia
+"Jammu & Kashmir and Ladakh, Rural",43921,IND_43921,5,South Asia,South Asia
+"Jammu & Kashmir and Ladakh, Urban",43885,IND_43885,5,South Asia,South Asia
+Jharkhand,4855,IND_4855,4,South Asia,South Asia
+"Jharkhand, Rural",43922,IND_43922,5,South Asia,South Asia
+"Jharkhand, Urban",43886,IND_43886,5,South Asia,South Asia
+Karnataka,4856,IND_4856,4,South Asia,South Asia
+"Karnataka, Rural",43923,IND_43923,5,South Asia,South Asia
+"Karnataka, Urban",43887,IND_43887,5,South Asia,South Asia
+Kerala,4857,IND_4857,4,South Asia,South Asia
+"Kerala, Rural",43924,IND_43924,5,South Asia,South Asia
+"Kerala, Urban",43888,IND_43888,5,South Asia,South Asia
+Madhya Pradesh,4859,IND_4859,4,South Asia,South Asia
+"Madhya Pradesh, Rural",43926,IND_43926,5,South Asia,South Asia
+"Madhya Pradesh, Urban",43890,IND_43890,5,South Asia,South Asia
+Maharashtra,4860,IND_4860,4,South Asia,South Asia
+"Maharashtra, Rural",43927,IND_43927,5,South Asia,South Asia
+"Maharashtra, Urban",43891,IND_43891,5,South Asia,South Asia
+Manipur,4861,IND_4861,4,South Asia,South Asia
+"Manipur, Rural",43928,IND_43928,5,South Asia,South Asia
+"Manipur, Urban",43892,IND_43892,5,South Asia,South Asia
+Meghalaya,4862,IND_4862,4,South Asia,South Asia
+"Meghalaya, Rural",43929,IND_43929,5,South Asia,South Asia
+"Meghalaya, Urban",43893,IND_43893,5,South Asia,South Asia
+Mizoram,4863,IND_4863,4,South Asia,South Asia
+"Mizoram, Rural",43930,IND_43930,5,South Asia,South Asia
+"Mizoram, Urban",43894,IND_43894,5,South Asia,South Asia
+Nagaland,4864,IND_4864,4,South Asia,South Asia
+"Nagaland, Rural",43931,IND_43931,5,South Asia,South Asia
+"Nagaland, Urban",43895,IND_43895,5,South Asia,South Asia
+Odisha,4865,IND_4865,4,South Asia,South Asia
+"Odisha, Rural",43932,IND_43932,5,South Asia,South Asia
+"Odisha, Urban",43896,IND_43896,5,South Asia,South Asia
+Other Union Territories,44538,IND_44538,4,South Asia,South Asia
+"Other Union Territories, Rural",44539,IND_44539,5,South Asia,South Asia
+"Other Union Territories, Urban",44540,IND_44540,5,South Asia,South Asia
+Punjab,4867,IND_4867,4,South Asia,South Asia
+"Punjab, Rural",43934,IND_43934,5,South Asia,South Asia
+"Punjab, Urban",43898,IND_43898,5,South Asia,South Asia
+Rajasthan,4868,IND_4868,4,South Asia,South Asia
+"Rajasthan, Rural",43935,IND_43935,5,South Asia,South Asia
+"Rajasthan, Urban",43899,IND_43899,5,South Asia,South Asia
+Sikkim,4869,IND_4869,4,South Asia,South Asia
+"Sikkim, Rural",43936,IND_43936,5,South Asia,South Asia
+"Sikkim, Urban",43900,IND_43900,5,South Asia,South Asia
+Tamil Nadu,4870,IND_4870,4,South Asia,South Asia
+"Tamil Nadu, Rural",43937,IND_43937,5,South Asia,South Asia
+"Tamil Nadu, Urban",43901,IND_43901,5,South Asia,South Asia
+Telangana,4871,IND_4871,4,South Asia,South Asia
+"Telangana, Rural",43938,IND_43938,5,South Asia,South Asia
+"Telangana, Urban",43902,IND_43902,5,South Asia,South Asia
+Tripura,4872,IND_4872,4,South Asia,South Asia
+"Tripura, Rural",43939,IND_43939,5,South Asia,South Asia
+"Tripura, Urban",43903,IND_43903,5,South Asia,South Asia
+Uttar Pradesh,4873,IND_4873,4,South Asia,South Asia
+"Uttar Pradesh, Rural",43940,IND_43940,5,South Asia,South Asia
+"Uttar Pradesh, Urban",43904,IND_43904,5,South Asia,South Asia
+Uttarakhand,4874,IND_4874,4,South Asia,South Asia
+"Uttarakhand, Rural",43941,IND_43941,5,South Asia,South Asia
+"Uttarakhand, Urban",43905,IND_43905,5,South Asia,South Asia
+West Bengal,4875,IND_4875,4,South Asia,South Asia
+"West Bengal, Rural",43942,IND_43942,5,South Asia,South Asia
+"West Bengal, Urban",43906,IND_43906,5,South Asia,South Asia
+Nepal,164,NPL,3,South Asia,South Asia
+Pakistan,165,PAK,3,South Asia,South Asia
+Azad Jammu & Kashmir,53615,PAK_53615,4,South Asia,South Asia
+Balochistan,53616,PAK_53616,4,South Asia,South Asia
+Gilgit-Baltistan,53617,PAK_53617,4,South Asia,South Asia
+Islamabad Capital Territory,53618,PAK_53618,4,South Asia,South Asia
+Khyber Pakhtunkhwa,53619,PAK_53619,4,South Asia,South Asia
+Punjab,53620,PAK_53620,4,South Asia,South Asia
+Sindh,53621,PAK_53621,4,South Asia,South Asia
+"Southeast Asia, East Asia, and Oceania",4,S6,1,"","Southeast Asia, East Asia, and Oceania"
+East Asia,5,R3,2,East Asia,"Southeast Asia, East Asia, and Oceania"
+China,6,CHN,3,East Asia,"Southeast Asia, East Asia, and Oceania"
+Anhui,491,CHN_491,4,East Asia,"Southeast Asia, East Asia, and Oceania"
+Beijing,492,CHN_492,4,East Asia,"Southeast Asia, East Asia, and Oceania"
+Chongqing,493,CHN_493,4,East Asia,"Southeast Asia, East Asia, and Oceania"
+Fujian,494,CHN_494,4,East Asia,"Southeast Asia, East Asia, and Oceania"
+Gansu,495,CHN_495,4,East Asia,"Southeast Asia, East Asia, and Oceania"
+Guangdong,496,CHN_496,4,East Asia,"Southeast Asia, East Asia, and Oceania"
+Guangxi,497,CHN_497,4,East Asia,"Southeast Asia, East Asia, and Oceania"
+Guizhou,498,CHN_498,4,East Asia,"Southeast Asia, East Asia, and Oceania"
+Hainan,499,CHN_499,4,East Asia,"Southeast Asia, East Asia, and Oceania"
+Hebei,500,CHN_500,4,East Asia,"Southeast Asia, East Asia, and Oceania"
+Heilongjiang,501,CHN_501,4,East Asia,"Southeast Asia, East Asia, and Oceania"
+Henan,502,CHN_502,4,East Asia,"Southeast Asia, East Asia, and Oceania"
+Hong Kong Special Administrative Region of China,354,CHN_354,4,East Asia,"Southeast Asia, East Asia, and Oceania"
+Hubei,503,CHN_503,4,East Asia,"Southeast Asia, East Asia, and Oceania"
+Hunan,504,CHN_504,4,East Asia,"Southeast Asia, East Asia, and Oceania"
+Inner Mongolia,505,CHN_505,4,East Asia,"Southeast Asia, East Asia, and Oceania"
+Jiangsu,506,CHN_506,4,East Asia,"Southeast Asia, East Asia, and Oceania"
+Jiangxi,507,CHN_507,4,East Asia,"Southeast Asia, East Asia, and Oceania"
+Jilin,508,CHN_508,4,East Asia,"Southeast Asia, East Asia, and Oceania"
+Liaoning,509,CHN_509,4,East Asia,"Southeast Asia, East Asia, and Oceania"
+Macao Special Administrative Region of China,361,CHN_361,4,East Asia,"Southeast Asia, East Asia, and Oceania"
+Ningxia,510,CHN_510,4,East Asia,"Southeast Asia, East Asia, and Oceania"
+Qinghai,511,CHN_511,4,East Asia,"Southeast Asia, East Asia, and Oceania"
+Shaanxi,512,CHN_512,4,East Asia,"Southeast Asia, East Asia, and Oceania"
+Shandong,513,CHN_513,4,East Asia,"Southeast Asia, East Asia, and Oceania"
+Shanghai,514,CHN_514,4,East Asia,"Southeast Asia, East Asia, and Oceania"
+Shanxi,515,CHN_515,4,East Asia,"Southeast Asia, East Asia, and Oceania"
+Sichuan,516,CHN_516,4,East Asia,"Southeast Asia, East Asia, and Oceania"
+Tianjin,517,CHN_517,4,East Asia,"Southeast Asia, East Asia, and Oceania"
+Tibet,518,CHN_518,4,East Asia,"Southeast Asia, East Asia, and Oceania"
+Xinjiang,519,CHN_519,4,East Asia,"Southeast Asia, East Asia, and Oceania"
+Yunnan,520,CHN_520,4,East Asia,"Southeast Asia, East Asia, and Oceania"
+Zhejiang,521,CHN_521,4,East Asia,"Southeast Asia, East Asia, and Oceania"
+Democratic People's Republic of Korea,7,PRK,3,East Asia,"Southeast Asia, East Asia, and Oceania"
+Taiwan (Province of China),8,TWN,3,East Asia,"Southeast Asia, East Asia, and Oceania"
+Oceania,21,R17,2,Oceania,"Southeast Asia, East Asia, and Oceania"
+American Samoa,298,ASM,3,Oceania,"Southeast Asia, East Asia, and Oceania"
+Cook Islands,320,COK,3,Oceania,"Southeast Asia, East Asia, and Oceania"
+Fiji,22,FJI,3,Oceania,"Southeast Asia, East Asia, and Oceania"
+Guam,351,GUM,3,Oceania,"Southeast Asia, East Asia, and Oceania"
+Kiribati,23,KIR,3,Oceania,"Southeast Asia, East Asia, and Oceania"
+Marshall Islands,24,MHL,3,Oceania,"Southeast Asia, East Asia, and Oceania"
+Micronesia (Federated States of),25,FSM,3,Oceania,"Southeast Asia, East Asia, and Oceania"
+Nauru,369,NRU,3,Oceania,"Southeast Asia, East Asia, and Oceania"
+Niue,374,NIU,3,Oceania,"Southeast Asia, East Asia, and Oceania"
+Northern Mariana Islands,376,MNP,3,Oceania,"Southeast Asia, East Asia, and Oceania"
+Palau,380,PLW,3,Oceania,"Southeast Asia, East Asia, and Oceania"
+Papua New Guinea,26,PNG,3,Oceania,"Southeast Asia, East Asia, and Oceania"
+Samoa,27,WSM,3,Oceania,"Southeast Asia, East Asia, and Oceania"
+Solomon Islands,28,SLB,3,Oceania,"Southeast Asia, East Asia, and Oceania"
+Tokelau,413,TKL,3,Oceania,"Southeast Asia, East Asia, and Oceania"
+Tonga,29,TON,3,Oceania,"Southeast Asia, East Asia, and Oceania"
+Tuvalu,416,TUV,3,Oceania,"Southeast Asia, East Asia, and Oceania"
+Vanuatu,30,VUT,3,Oceania,"Southeast Asia, East Asia, and Oceania"
+Southeast Asia,9,R5,2,Southeast Asia,"Southeast Asia, East Asia, and Oceania"
+Cambodia,10,KHM,3,Southeast Asia,"Southeast Asia, East Asia, and Oceania"
+Indonesia,11,IDN,3,Southeast Asia,"Southeast Asia, East Asia, and Oceania"
+Aceh,4709,IDN_4709,4,Southeast Asia,"Southeast Asia, East Asia, and Oceania"
+Bali,4726,IDN_4726,4,Southeast Asia,"Southeast Asia, East Asia, and Oceania"
+Bangka-Belitung Islands,4717,IDN_4717,4,Southeast Asia,"Southeast Asia, East Asia, and Oceania"
+Banten,4725,IDN_4725,4,Southeast Asia,"Southeast Asia, East Asia, and Oceania"
+Bengkulu,4715,IDN_4715,4,Southeast Asia,"Southeast Asia, East Asia, and Oceania"
+Gorontalo,4737,IDN_4737,4,Southeast Asia,"Southeast Asia, East Asia, and Oceania"
+Jakarta,4720,IDN_4720,4,Southeast Asia,"Southeast Asia, East Asia, and Oceania"
+Jambi,4713,IDN_4713,4,Southeast Asia,"Southeast Asia, East Asia, and Oceania"
+West Java,4721,IDN_4721,4,Southeast Asia,"Southeast Asia, East Asia, and Oceania"
+Central Java,4722,IDN_4722,4,Southeast Asia,"Southeast Asia, East Asia, and Oceania"
+East Java,4724,IDN_4724,4,Southeast Asia,"Southeast Asia, East Asia, and Oceania"
+West Kalimantan,4729,IDN_4729,4,Southeast Asia,"Southeast Asia, East Asia, and Oceania"
+South Kalimantan,4731,IDN_4731,4,Southeast Asia,"Southeast Asia, East Asia, and Oceania"
+Central Kalimantan,4730,IDN_4730,4,Southeast Asia,"Southeast Asia, East Asia, and Oceania"
+East Kalimantan,4732,IDN_4732,4,Southeast Asia,"Southeast Asia, East Asia, and Oceania"
+North Kalimantan,4719,IDN_4719,4,Southeast Asia,"Southeast Asia, East Asia, and Oceania"
+Riau Islands,4718,IDN_4718,4,Southeast Asia,"Southeast Asia, East Asia, and Oceania"
+Lampung,4716,IDN_4716,4,Southeast Asia,"Southeast Asia, East Asia, and Oceania"
+Maluku,4739,IDN_4739,4,Southeast Asia,"Southeast Asia, East Asia, and Oceania"
+North Maluku,4740,IDN_4740,4,Southeast Asia,"Southeast Asia, East Asia, and Oceania"
+West Nusa Tenggara,4727,IDN_4727,4,Southeast Asia,"Southeast Asia, East Asia, and Oceania"
+East Nusa Tenggara,4728,IDN_4728,4,Southeast Asia,"Southeast Asia, East Asia, and Oceania"
+Papua,4742,IDN_4742,4,Southeast Asia,"Southeast Asia, East Asia, and Oceania"
+West Papua,4741,IDN_4741,4,Southeast Asia,"Southeast Asia, East Asia, and Oceania"
+Riau,4712,IDN_4712,4,Southeast Asia,"Southeast Asia, East Asia, and Oceania"
+West Sulawesi,4738,IDN_4738,4,Southeast Asia,"Southeast Asia, East Asia, and Oceania"
+South Sulawesi,4735,IDN_4735,4,Southeast Asia,"Southeast Asia, East Asia, and Oceania"
+Central Sulawesi,4734,IDN_4734,4,Southeast Asia,"Southeast Asia, East Asia, and Oceania"
+Southeast Sulawesi,4736,IDN_4736,4,Southeast Asia,"Southeast Asia, East Asia, and Oceania"
+North Sulawesi,4733,IDN_4733,4,Southeast Asia,"Southeast Asia, East Asia, and Oceania"
+West Sumatra,4711,IDN_4711,4,Southeast Asia,"Southeast Asia, East Asia, and Oceania"
+South Sumatra,4714,IDN_4714,4,Southeast Asia,"Southeast Asia, East Asia, and Oceania"
+North Sumatra,4710,IDN_4710,4,Southeast Asia,"Southeast Asia, East Asia, and Oceania"
+Yogyakarta,4723,IDN_4723,4,Southeast Asia,"Southeast Asia, East Asia, and Oceania"
+Lao People's Democratic Republic,12,LAO,3,Southeast Asia,"Southeast Asia, East Asia, and Oceania"
+Malaysia,13,MYS,3,Southeast Asia,"Southeast Asia, East Asia, and Oceania"
+Maldives,14,MDV,3,Southeast Asia,"Southeast Asia, East Asia, and Oceania"
+Mauritius,183,MUS,3,Southeast Asia,"Southeast Asia, East Asia, and Oceania"
+Myanmar,15,MMR,3,Southeast Asia,"Southeast Asia, East Asia, and Oceania"
+Philippines,16,PHL,3,Southeast Asia,"Southeast Asia, East Asia, and Oceania"
+Abra,53536,PHL_53536,4,Southeast Asia,"Southeast Asia, East Asia, and Oceania"
+Agusan Del Norte,53604,PHL_53604,4,Southeast Asia,"Southeast Asia, East Asia, and Oceania"
+Agusan Del Sur,53605,PHL_53605,4,Southeast Asia,"Southeast Asia, East Asia, and Oceania"
+Aklan,53572,PHL_53572,4,Southeast Asia,"Southeast Asia, East Asia, and Oceania"
+Albay,53568,PHL_53568,4,Southeast Asia,"Southeast Asia, East Asia, and Oceania"
+Antique,53573,PHL_53573,4,Southeast Asia,"Southeast Asia, East Asia, and Oceania"
+Apayao,53537,PHL_53537,4,Southeast Asia,"Southeast Asia, East Asia, and Oceania"
+Aurora,53554,PHL_53554,4,Southeast Asia,"Southeast Asia, East Asia, and Oceania"
+Basilan,53610,PHL_53610,4,Southeast Asia,"Southeast Asia, East Asia, and Oceania"
+Bataan,53548,PHL_53548,4,Southeast Asia,"Southeast Asia, East Asia, and Oceania"
+Batanes,53547,PHL_53547,4,Southeast Asia,"Southeast Asia, East Asia, and Oceania"
+Batangas,53558,PHL_53558,4,Southeast Asia,"Southeast Asia, East Asia, and Oceania"
+Benguet,53535,PHL_53535,4,Southeast Asia,"Southeast Asia, East Asia, and Oceania"
+Biliran,53586,PHL_53586,4,Southeast Asia,"Southeast Asia, East Asia, and Oceania"
+Bohol,53579,PHL_53579,4,Southeast Asia,"Southeast Asia, East Asia, and Oceania"
+Bukidnon,53591,PHL_53591,4,Southeast Asia,"Southeast Asia, East Asia, and Oceania"
+Bulacan,53552,PHL_53552,4,Southeast Asia,"Southeast Asia, East Asia, and Oceania"
+Cagayan,53544,PHL_53544,4,Southeast Asia,"Southeast Asia, East Asia, and Oceania"
+Camarines Norte,53566,PHL_53566,4,Southeast Asia,"Southeast Asia, East Asia, and Oceania"
+Camarines Sur,53570,PHL_53570,4,Southeast Asia,"Southeast Asia, East Asia, and Oceania"
+Camiguin,53594,PHL_53594,4,Southeast Asia,"Southeast Asia, East Asia, and Oceania"
+Capiz,53571,PHL_53571,4,Southeast Asia,"Southeast Asia, East Asia, and Oceania"
+Catanduanes,53565,PHL_53565,4,Southeast Asia,"Southeast Asia, East Asia, and Oceania"
+Cavite,53556,PHL_53556,4,Southeast Asia,"Southeast Asia, East Asia, and Oceania"
+Cebu,53578,PHL_53578,4,Southeast Asia,"Southeast Asia, East Asia, and Oceania"
+Cotabato (North Cotabato),53602,PHL_53602,4,Southeast Asia,"Southeast Asia, East Asia, and Oceania"
+Davao de Oro,53596,PHL_53596,4,Southeast Asia,"Southeast Asia, East Asia, and Oceania"
+Davao Del Norte,53599,PHL_53599,4,Southeast Asia,"Southeast Asia, East Asia, and Oceania"
+Davao Del Sur,53597,PHL_53597,4,Southeast Asia,"Southeast Asia, East Asia, and Oceania"
+Davao Occidental,53598,PHL_53598,4,Southeast Asia,"Southeast Asia, East Asia, and Oceania"
+Davao Oriental,53595,PHL_53595,4,Southeast Asia,"Southeast Asia, East Asia, and Oceania"
+Dinagat Islands,53608,PHL_53608,4,Southeast Asia,"Southeast Asia, East Asia, and Oceania"
+Eastern Samar,53582,PHL_53582,4,Southeast Asia,"Southeast Asia, East Asia, and Oceania"
+Guimaras,53576,PHL_53576,4,Southeast Asia,"Southeast Asia, East Asia, and Oceania"
+Ifugao,53534,PHL_53534,4,Southeast Asia,"Southeast Asia, East Asia, and Oceania"
+Ilocos Norte,53540,PHL_53540,4,Southeast Asia,"Southeast Asia, East Asia, and Oceania"
+Ilocos Sur,53541,PHL_53541,4,Southeast Asia,"Southeast Asia, East Asia, and Oceania"
+Iloilo,53575,PHL_53575,4,Southeast Asia,"Southeast Asia, East Asia, and Oceania"
+Isabela,53545,PHL_53545,4,Southeast Asia,"Southeast Asia, East Asia, and Oceania"
+Kalinga,53538,PHL_53538,4,Southeast Asia,"Southeast Asia, East Asia, and Oceania"
+La Union,53539,PHL_53539,4,Southeast Asia,"Southeast Asia, East Asia, and Oceania"
+Laguna,53557,PHL_53557,4,Southeast Asia,"Southeast Asia, East Asia, and Oceania"
+Lanao Del Norte,53592,PHL_53592,4,Southeast Asia,"Southeast Asia, East Asia, and Oceania"
+Lanao Del Sur,53613,PHL_53613,4,Southeast Asia,"Southeast Asia, East Asia, and Oceania"
+Leyte,53585,PHL_53585,4,Southeast Asia,"Southeast Asia, East Asia, and Oceania"
+Maguindanao,53612,PHL_53612,4,Southeast Asia,"Southeast Asia, East Asia, and Oceania"
+Marinduque,53564,PHL_53564,4,Southeast Asia,"Southeast Asia, East Asia, and Oceania"
+Masbate,53569,PHL_53569,4,Southeast Asia,"Southeast Asia, East Asia, and Oceania"
+Misamis Occidental,53590,PHL_53590,4,Southeast Asia,"Southeast Asia, East Asia, and Oceania"
+Misamis Oriental,53593,PHL_53593,4,Southeast Asia,"Southeast Asia, East Asia, and Oceania"
+Mountain Province,53533,PHL_53533,4,Southeast Asia,"Southeast Asia, East Asia, and Oceania"
+National Capital Region,53614,PHL_53614,4,Southeast Asia,"Southeast Asia, East Asia, and Oceania"
+Negros Occidental,53574,PHL_53574,4,Southeast Asia,"Southeast Asia, East Asia, and Oceania"
+Negros Oriental,53577,PHL_53577,4,Southeast Asia,"Southeast Asia, East Asia, and Oceania"
+Northern Samar,53583,PHL_53583,4,Southeast Asia,"Southeast Asia, East Asia, and Oceania"
+Nueva Ecija,53553,PHL_53553,4,Southeast Asia,"Southeast Asia, East Asia, and Oceania"
+Nueva Vizcaya,53543,PHL_53543,4,Southeast Asia,"Southeast Asia, East Asia, and Oceania"
+Occidental Mindoro,53560,PHL_53560,4,Southeast Asia,"Southeast Asia, East Asia, and Oceania"
+Oriental Mindoro,53561,PHL_53561,4,Southeast Asia,"Southeast Asia, East Asia, and Oceania"
+Palawan,53563,PHL_53563,4,Southeast Asia,"Southeast Asia, East Asia, and Oceania"
+Pampanga,53551,PHL_53551,4,Southeast Asia,"Southeast Asia, East Asia, and Oceania"
+Pangasinan,53542,PHL_53542,4,Southeast Asia,"Southeast Asia, East Asia, and Oceania"
+Quezon,53559,PHL_53559,4,Southeast Asia,"Southeast Asia, East Asia, and Oceania"
+Quirino,53546,PHL_53546,4,Southeast Asia,"Southeast Asia, East Asia, and Oceania"
+Rizal,53555,PHL_53555,4,Southeast Asia,"Southeast Asia, East Asia, and Oceania"
+Romblon,53562,PHL_53562,4,Southeast Asia,"Southeast Asia, East Asia, and Oceania"
+Samar (Western Samar),53584,PHL_53584,4,Southeast Asia,"Southeast Asia, East Asia, and Oceania"
+Sarangani,53603,PHL_53603,4,Southeast Asia,"Southeast Asia, East Asia, and Oceania"
+Siquijor,53580,PHL_53580,4,Southeast Asia,"Southeast Asia, East Asia, and Oceania"
+Sorsogon,53567,PHL_53567,4,Southeast Asia,"Southeast Asia, East Asia, and Oceania"
+South Cotabato,53600,PHL_53600,4,Southeast Asia,"Southeast Asia, East Asia, and Oceania"
+Southern Leyte,53581,PHL_53581,4,Southeast Asia,"Southeast Asia, East Asia, and Oceania"
+Sultan Kudarat,53601,PHL_53601,4,Southeast Asia,"Southeast Asia, East Asia, and Oceania"
+Sulu,53611,PHL_53611,4,Southeast Asia,"Southeast Asia, East Asia, and Oceania"
+Surigao Del Norte,53607,PHL_53607,4,Southeast Asia,"Southeast Asia, East Asia, and Oceania"
+Surigao Del Sur,53606,PHL_53606,4,Southeast Asia,"Southeast Asia, East Asia, and Oceania"
+Tarlac,53550,PHL_53550,4,Southeast Asia,"Southeast Asia, East Asia, and Oceania"
+Tawi-Tawi,53609,PHL_53609,4,Southeast Asia,"Southeast Asia, East Asia, and Oceania"
+Zambales,53549,PHL_53549,4,Southeast Asia,"Southeast Asia, East Asia, and Oceania"
+Zamboanga Del Norte,53588,PHL_53588,4,Southeast Asia,"Southeast Asia, East Asia, and Oceania"
+Zamboanga Del Sur,53589,PHL_53589,4,Southeast Asia,"Southeast Asia, East Asia, and Oceania"
+Zamboanga Sibugay,53587,PHL_53587,4,Southeast Asia,"Southeast Asia, East Asia, and Oceania"
+Seychelles,186,SYC,3,Southeast Asia,"Southeast Asia, East Asia, and Oceania"
+Sri Lanka,17,LKA,3,Southeast Asia,"Southeast Asia, East Asia, and Oceania"
+Thailand,18,THA,3,Southeast Asia,"Southeast Asia, East Asia, and Oceania"
+Timor-Leste,19,TLS,3,Southeast Asia,"Southeast Asia, East Asia, and Oceania"
+Viet Nam,20,VNM,3,Southeast Asia,"Southeast Asia, East Asia, and Oceania"
+Sub-Saharan Africa,166,S3,1,"",Sub-Saharan Africa
+Central Sub-Saharan Africa,167,R18,2,Central Sub-Saharan Africa,Sub-Saharan Africa
+Angola,168,AGO,3,Central Sub-Saharan Africa,Sub-Saharan Africa
+Central African Republic,169,CAF,3,Central Sub-Saharan Africa,Sub-Saharan Africa
+Congo,170,COG,3,Central Sub-Saharan Africa,Sub-Saharan Africa
+Democratic Republic of the Congo,171,COD,3,Central Sub-Saharan Africa,Sub-Saharan Africa
+Equatorial Guinea,172,GNQ,3,Central Sub-Saharan Africa,Sub-Saharan Africa
+Gabon,173,GAB,3,Central Sub-Saharan Africa,Sub-Saharan Africa
+Eastern Sub-Saharan Africa,174,R19,2,Eastern Sub-Saharan Africa,Sub-Saharan Africa
+Burundi,175,BDI,3,Eastern Sub-Saharan Africa,Sub-Saharan Africa
+Comoros,176,COM,3,Eastern Sub-Saharan Africa,Sub-Saharan Africa
+Djibouti,177,DJI,3,Eastern Sub-Saharan Africa,Sub-Saharan Africa
+Eritrea,178,ERI,3,Eastern Sub-Saharan Africa,Sub-Saharan Africa
+Ethiopia,179,ETH,3,Eastern Sub-Saharan Africa,Sub-Saharan Africa
+Addis Ababa,44861,ETH_44861,4,Eastern Sub-Saharan Africa,Sub-Saharan Africa
+Afar,44853,ETH_44853,4,Eastern Sub-Saharan Africa,Sub-Saharan Africa
+Amhara,44854,ETH_44854,4,Eastern Sub-Saharan Africa,Sub-Saharan Africa
+Benishangul-Gumuz,44857,ETH_44857,4,Eastern Sub-Saharan Africa,Sub-Saharan Africa
+Dire Dawa,44862,ETH_44862,4,Eastern Sub-Saharan Africa,Sub-Saharan Africa
+Gambella,44860,ETH_44860,4,Eastern Sub-Saharan Africa,Sub-Saharan Africa
+Harari,44859,ETH_44859,4,Eastern Sub-Saharan Africa,Sub-Saharan Africa
+Oromia,44855,ETH_44855,4,Eastern Sub-Saharan Africa,Sub-Saharan Africa
+Somali,44856,ETH_44856,4,Eastern Sub-Saharan Africa,Sub-Saharan Africa
+"Southern Nations, Nationalities, and Peoples",44858,ETH_44858,4,Eastern Sub-Saharan Africa,Sub-Saharan Africa
+Tigray,44852,ETH_44852,4,Eastern Sub-Saharan Africa,Sub-Saharan Africa
+Kenya,180,KEN,3,Eastern Sub-Saharan Africa,Sub-Saharan Africa
+Baringo,35617,KEN_35617,4,Eastern Sub-Saharan Africa,Sub-Saharan Africa
+Bomet,35618,KEN_35618,4,Eastern Sub-Saharan Africa,Sub-Saharan Africa
+Bungoma,35619,KEN_35619,4,Eastern Sub-Saharan Africa,Sub-Saharan Africa
+Busia,35620,KEN_35620,4,Eastern Sub-Saharan Africa,Sub-Saharan Africa
+Elgeyo-Marakwet,35621,KEN_35621,4,Eastern Sub-Saharan Africa,Sub-Saharan Africa
+Embu,35622,KEN_35622,4,Eastern Sub-Saharan Africa,Sub-Saharan Africa
+Garissa,35623,KEN_35623,4,Eastern Sub-Saharan Africa,Sub-Saharan Africa
+Homa Bay,35624,KEN_35624,4,Eastern Sub-Saharan Africa,Sub-Saharan Africa
+Isiolo,35625,KEN_35625,4,Eastern Sub-Saharan Africa,Sub-Saharan Africa
+Kajiado,35626,KEN_35626,4,Eastern Sub-Saharan Africa,Sub-Saharan Africa
+Kakamega,35627,KEN_35627,4,Eastern Sub-Saharan Africa,Sub-Saharan Africa
+Kericho,35628,KEN_35628,4,Eastern Sub-Saharan Africa,Sub-Saharan Africa
+Kiambu,35629,KEN_35629,4,Eastern Sub-Saharan Africa,Sub-Saharan Africa
+Kilifi,35630,KEN_35630,4,Eastern Sub-Saharan Africa,Sub-Saharan Africa
+Kirinyaga,35631,KEN_35631,4,Eastern Sub-Saharan Africa,Sub-Saharan Africa
+Kisii,35632,KEN_35632,4,Eastern Sub-Saharan Africa,Sub-Saharan Africa
+Kisumu,35633,KEN_35633,4,Eastern Sub-Saharan Africa,Sub-Saharan Africa
+Kitui,35634,KEN_35634,4,Eastern Sub-Saharan Africa,Sub-Saharan Africa
+Kwale,35635,KEN_35635,4,Eastern Sub-Saharan Africa,Sub-Saharan Africa
+Laikipia,35636,KEN_35636,4,Eastern Sub-Saharan Africa,Sub-Saharan Africa
+Lamu,35637,KEN_35637,4,Eastern Sub-Saharan Africa,Sub-Saharan Africa
+Machakos,35638,KEN_35638,4,Eastern Sub-Saharan Africa,Sub-Saharan Africa
+Makueni,35639,KEN_35639,4,Eastern Sub-Saharan Africa,Sub-Saharan Africa
+Mandera,35640,KEN_35640,4,Eastern Sub-Saharan Africa,Sub-Saharan Africa
+Marsabit,35641,KEN_35641,4,Eastern Sub-Saharan Africa,Sub-Saharan Africa
+Meru,35642,KEN_35642,4,Eastern Sub-Saharan Africa,Sub-Saharan Africa
+Migori,35643,KEN_35643,4,Eastern Sub-Saharan Africa,Sub-Saharan Africa
+Mombasa,35644,KEN_35644,4,Eastern Sub-Saharan Africa,Sub-Saharan Africa
+Murang'a,35645,KEN_35645,4,Eastern Sub-Saharan Africa,Sub-Saharan Africa
+Nairobi,35646,KEN_35646,4,Eastern Sub-Saharan Africa,Sub-Saharan Africa
+Nakuru,35647,KEN_35647,4,Eastern Sub-Saharan Africa,Sub-Saharan Africa
+Nandi,35648,KEN_35648,4,Eastern Sub-Saharan Africa,Sub-Saharan Africa
+Narok,35649,KEN_35649,4,Eastern Sub-Saharan Africa,Sub-Saharan Africa
+Nyamira,35650,KEN_35650,4,Eastern Sub-Saharan Africa,Sub-Saharan Africa
+Nyandarua,35651,KEN_35651,4,Eastern Sub-Saharan Africa,Sub-Saharan Africa
+Nyeri,35652,KEN_35652,4,Eastern Sub-Saharan Africa,Sub-Saharan Africa
+Samburu,35653,KEN_35653,4,Eastern Sub-Saharan Africa,Sub-Saharan Africa
+Siaya,35654,KEN_35654,4,Eastern Sub-Saharan Africa,Sub-Saharan Africa
+Taita Taveta,35655,KEN_35655,4,Eastern Sub-Saharan Africa,Sub-Saharan Africa
+Tana River,35656,KEN_35656,4,Eastern Sub-Saharan Africa,Sub-Saharan Africa
+Tharaka Nithi,35657,KEN_35657,4,Eastern Sub-Saharan Africa,Sub-Saharan Africa
+Trans Nzoia,35658,KEN_35658,4,Eastern Sub-Saharan Africa,Sub-Saharan Africa
+Turkana,35659,KEN_35659,4,Eastern Sub-Saharan Africa,Sub-Saharan Africa
+Uasin Gishu,35660,KEN_35660,4,Eastern Sub-Saharan Africa,Sub-Saharan Africa
+Vihiga,35661,KEN_35661,4,Eastern Sub-Saharan Africa,Sub-Saharan Africa
+Wajir,35662,KEN_35662,4,Eastern Sub-Saharan Africa,Sub-Saharan Africa
+West Pokot,35663,KEN_35663,4,Eastern Sub-Saharan Africa,Sub-Saharan Africa
+Madagascar,181,MDG,3,Eastern Sub-Saharan Africa,Sub-Saharan Africa
+Malawi,182,MWI,3,Eastern Sub-Saharan Africa,Sub-Saharan Africa
+Mozambique,184,MOZ,3,Eastern Sub-Saharan Africa,Sub-Saharan Africa
+Rwanda,185,RWA,3,Eastern Sub-Saharan Africa,Sub-Saharan Africa
+Somalia,187,SOM,3,Eastern Sub-Saharan Africa,Sub-Saharan Africa
+South Sudan,435,SSD,3,Eastern Sub-Saharan Africa,Sub-Saharan Africa
+Uganda,190,UGA,3,Eastern Sub-Saharan Africa,Sub-Saharan Africa
+United Republic of Tanzania,189,TZA,3,Eastern Sub-Saharan Africa,Sub-Saharan Africa
+Zambia,191,ZMB,3,Eastern Sub-Saharan Africa,Sub-Saharan Africa
+Southern Sub-Saharan Africa,192,R20,2,Southern Sub-Saharan Africa,Sub-Saharan Africa
+Botswana,193,BWA,3,Southern Sub-Saharan Africa,Sub-Saharan Africa
+Eswatini,197,SWZ,3,Southern Sub-Saharan Africa,Sub-Saharan Africa
+Lesotho,194,LSO,3,Southern Sub-Saharan Africa,Sub-Saharan Africa
+Namibia,195,NAM,3,Southern Sub-Saharan Africa,Sub-Saharan Africa
+South Africa,196,ZAF,3,Southern Sub-Saharan Africa,Sub-Saharan Africa
+Eastern Cape,482,ZAF_482,4,Southern Sub-Saharan Africa,Sub-Saharan Africa
+Free State,483,ZAF_483,4,Southern Sub-Saharan Africa,Sub-Saharan Africa
+Gauteng,484,ZAF_484,4,Southern Sub-Saharan Africa,Sub-Saharan Africa
+KwaZulu-Natal,485,ZAF_485,4,Southern Sub-Saharan Africa,Sub-Saharan Africa
+Limpopo,486,ZAF_486,4,Southern Sub-Saharan Africa,Sub-Saharan Africa
+Mpumalanga,487,ZAF_487,4,Southern Sub-Saharan Africa,Sub-Saharan Africa
+North-West,488,ZAF_488,4,Southern Sub-Saharan Africa,Sub-Saharan Africa
+Northern Cape,489,ZAF_489,4,Southern Sub-Saharan Africa,Sub-Saharan Africa
+Western Cape,490,ZAF_490,4,Southern Sub-Saharan Africa,Sub-Saharan Africa
+Zimbabwe,198,ZWE,3,Southern Sub-Saharan Africa,Sub-Saharan Africa
+Western Sub-Saharan Africa,199,R21,2,Western Sub-Saharan Africa,Sub-Saharan Africa
+Benin,200,BEN,3,Western Sub-Saharan Africa,Sub-Saharan Africa
+Burkina Faso,201,BFA,3,Western Sub-Saharan Africa,Sub-Saharan Africa
+Cabo Verde,203,CPV,3,Western Sub-Saharan Africa,Sub-Saharan Africa
+Cameroon,202,CMR,3,Western Sub-Saharan Africa,Sub-Saharan Africa
+Chad,204,TCD,3,Western Sub-Saharan Africa,Sub-Saharan Africa
+Côte d'Ivoire,205,CIV,3,Western Sub-Saharan Africa,Sub-Saharan Africa
+Gambia,206,GMB,3,Western Sub-Saharan Africa,Sub-Saharan Africa
+Ghana,207,GHA,3,Western Sub-Saharan Africa,Sub-Saharan Africa
+Guinea,208,GIN,3,Western Sub-Saharan Africa,Sub-Saharan Africa
+Guinea-Bissau,209,GNB,3,Western Sub-Saharan Africa,Sub-Saharan Africa
+Liberia,210,LBR,3,Western Sub-Saharan Africa,Sub-Saharan Africa
+Mali,211,MLI,3,Western Sub-Saharan Africa,Sub-Saharan Africa
+Mauritania,212,MRT,3,Western Sub-Saharan Africa,Sub-Saharan Africa
+Niger,213,NER,3,Western Sub-Saharan Africa,Sub-Saharan Africa
+Nigeria,214,NGA,3,Western Sub-Saharan Africa,Sub-Saharan Africa
+Abia,25318,NGA_25318,4,Western Sub-Saharan Africa,Sub-Saharan Africa
+Adamawa,25319,NGA_25319,4,Western Sub-Saharan Africa,Sub-Saharan Africa
+Akwa Ibom,25320,NGA_25320,4,Western Sub-Saharan Africa,Sub-Saharan Africa
+Anambra,25321,NGA_25321,4,Western Sub-Saharan Africa,Sub-Saharan Africa
+Bauchi,25322,NGA_25322,4,Western Sub-Saharan Africa,Sub-Saharan Africa
+Bayelsa,25323,NGA_25323,4,Western Sub-Saharan Africa,Sub-Saharan Africa
+Benue,25324,NGA_25324,4,Western Sub-Saharan Africa,Sub-Saharan Africa
+Borno,25325,NGA_25325,4,Western Sub-Saharan Africa,Sub-Saharan Africa
+Cross River,25326,NGA_25326,4,Western Sub-Saharan Africa,Sub-Saharan Africa
+Delta,25327,NGA_25327,4,Western Sub-Saharan Africa,Sub-Saharan Africa
+Ebonyi,25328,NGA_25328,4,Western Sub-Saharan Africa,Sub-Saharan Africa
+Edo,25329,NGA_25329,4,Western Sub-Saharan Africa,Sub-Saharan Africa
+Ekiti,25330,NGA_25330,4,Western Sub-Saharan Africa,Sub-Saharan Africa
+Enugu,25331,NGA_25331,4,Western Sub-Saharan Africa,Sub-Saharan Africa
+FCT (Abuja),25332,NGA_25332,4,Western Sub-Saharan Africa,Sub-Saharan Africa
+Gombe,25333,NGA_25333,4,Western Sub-Saharan Africa,Sub-Saharan Africa
+Imo,25334,NGA_25334,4,Western Sub-Saharan Africa,Sub-Saharan Africa
+Jigawa,25335,NGA_25335,4,Western Sub-Saharan Africa,Sub-Saharan Africa
+Kaduna,25336,NGA_25336,4,Western Sub-Saharan Africa,Sub-Saharan Africa
+Kano,25337,NGA_25337,4,Western Sub-Saharan Africa,Sub-Saharan Africa
+Katsina,25338,NGA_25338,4,Western Sub-Saharan Africa,Sub-Saharan Africa
+Kebbi,25339,NGA_25339,4,Western Sub-Saharan Africa,Sub-Saharan Africa
+Kogi,25340,NGA_25340,4,Western Sub-Saharan Africa,Sub-Saharan Africa
+Kwara,25341,NGA_25341,4,Western Sub-Saharan Africa,Sub-Saharan Africa
+Lagos,25342,NGA_25342,4,Western Sub-Saharan Africa,Sub-Saharan Africa
+Nasarawa,25343,NGA_25343,4,Western Sub-Saharan Africa,Sub-Saharan Africa
+Niger,25344,NGA_25344,4,Western Sub-Saharan Africa,Sub-Saharan Africa
+Ogun,25345,NGA_25345,4,Western Sub-Saharan Africa,Sub-Saharan Africa
+Ondo,25346,NGA_25346,4,Western Sub-Saharan Africa,Sub-Saharan Africa
+Osun,25347,NGA_25347,4,Western Sub-Saharan Africa,Sub-Saharan Africa
+Oyo,25348,NGA_25348,4,Western Sub-Saharan Africa,Sub-Saharan Africa
+Plateau,25349,NGA_25349,4,Western Sub-Saharan Africa,Sub-Saharan Africa
+Rivers,25350,NGA_25350,4,Western Sub-Saharan Africa,Sub-Saharan Africa
+Sokoto,25351,NGA_25351,4,Western Sub-Saharan Africa,Sub-Saharan Africa
+Taraba,25352,NGA_25352,4,Western Sub-Saharan Africa,Sub-Saharan Africa
+Yobe,25353,NGA_25353,4,Western Sub-Saharan Africa,Sub-Saharan Africa
+Zamfara,25354,NGA_25354,4,Western Sub-Saharan Africa,Sub-Saharan Africa
+Sao Tome and Principe,215,STP,3,Western Sub-Saharan Africa,Sub-Saharan Africa
+Senegal,216,SEN,3,Western Sub-Saharan Africa,Sub-Saharan Africa
+Sierra Leone,217,SLE,3,Western Sub-Saharan Africa,Sub-Saharan Africa
+Togo,218,TGO,3,Western Sub-Saharan Africa,Sub-Saharan Africa

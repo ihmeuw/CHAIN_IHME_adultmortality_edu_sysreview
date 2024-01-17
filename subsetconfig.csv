@@ -1,0 +1,10 @@
+SDI_v1,SDI_v2,SDI_v3,SDI_v4,SDI_v5,SDI_v6,AgeGroup_v1,AgeGroup_v2,Income_v1,Region_v1,Region_v2,Region_v3,EduLevel_v1,EduLevel_v2,EduLevel_v3,Confounder_v1,Sex,Sex_v2,Cohort_v1,Cohort_v2,Period_v1,Period_v2
+sdi_group,sdi_group,sdi_group,sdi_group,sdi_group,sdi_group,age_group,age_group,income,sr_group,sr_group,sr_group,cohort_exp_def_mid,cohort_exp_def_mid,cohort_exp_def_mid,confounders_age.sex,Sub_GENDER,Gender,cohort_group,cohort_group,period_group,period_group
+0 to 0.39,SDI Quintile 1 and 2,SDI_1_3_Quintile,SDI_below,SDI Group 1,SDI Group 1,15 to 49,15 to 39,HIC,High-income,High-income,High-income,"0,5.99","0,4.99","0,19",1,M,M,1870-1919 cohort,1870-1929 cohort,1893-1989 time period,1893-1979 time period
+0.4 to 0.59,SDI Quintile 3,SDI_4_5_Quintile,SDI_above,SDI Group 2,SDI Group 2,50 to 59,40 to 65,LMIC,Other,"Central Europe, Eastern Europe, and Central Asia","Central Europe, Eastern Europe, and Central Asia","6,8.99","0,6.99","4.99,19",,F,F,1920-1929 cohort,1930-1949 cohort,1990 to 1999 time period,1980-1989 time period
+0.6 to 0.79,SDI Quintile 4,,,SDI Group 3,SDI Group 3,60 to 69,> 65,,,"Southeast Asia, East Asia, and Oceania","Southeast Asia, East Asia, and Oceania","9,12.99","0,8.99","6.99,19",,,,1930-1949 cohort,1950-1990 cohort,2000-2020 time period,1990-1999 time period
+0.8 to 1,SDI Quintile 5,,,SDI Group 4,SDI Group 4,> 70,,,,"Latin America, South Asia, Sub-Saharan Africa",Latin America and Caribbean,"13,19","0,10.99","8.99,19",,,,1950-1990 cohort,,,2000-2020 time period
+,,,,SDI Group 5,SDI Group 5,,,,,,South Asia,,"0,12.99","10.99,19",,,,,,,
+,,,,SDI Group 6,,,,,,,Sub-Saharan Africa,,"0,14.99","12.99,19",,,,,,,
+,,,,,,,,,,,,,"0,16.99","14.99,19",,,,,,,
+,,,,,,,,,,,,,"0,19","16.99,19",,,,,,,
